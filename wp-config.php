@@ -61,6 +61,16 @@ define('NONCE_SALT',       '+m]gDcK`0tBEavZ*}zOX2BPTZe@1 DTU0&O,~HtQq|=>XS5G{ZFQ
  */
 $table_prefix  = 'im2015_';
 
+/**
+ * Idioma de WordPress.
+ *
+ * Cambia lo siguiente para tener WordPress en tu idioma. El correspondiente archivo MO
+ * del lenguaje elegido debe encontrarse en wp-content/languages.
+ * Por ejemplo, instala ca_ES.mo copiándolo a wp-content/languages y define WPLANG como 'ca_ES'
+ * para traducir WordPress al catalán.
+ */
+define('WPLANG', 'es_ES');
+
 
 /**
  * Para desarrolladores: modo debug de WordPress.
