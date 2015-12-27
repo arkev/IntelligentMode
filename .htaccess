@@ -10,3 +10,9 @@ RewriteRule . /index.php [L]
 </IfModule>
 
 # END WordPress
+
+# protege archivo .htaccess
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
