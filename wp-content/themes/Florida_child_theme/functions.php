@@ -8,3 +8,5 @@
 	        array('parent-style')
 	    );
 	}
+	
+Remove_action('wp_head', 'wp_generator');
