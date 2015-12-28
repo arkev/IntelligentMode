@@ -4750,1488 +4750,641 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/admin\/style.css": {
+	"\/wp-content\/plugins\/contact-form-7\/admin\/admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/admin\/css\/styles-rtl.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/admin\/style.css",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/css\/styles-rtl.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/css3_web_pricing_tables_grids.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/css3_web_pricing_tables_grids.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/bullet.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 155,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/bullet.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/bullet.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/menu_background.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1474,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/menu_background.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/menu_background.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/pre_background.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2806,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/pre_background.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/pre_background.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/quantica_footer.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2888,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/quantica_footer.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/quantica_footer.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/quantica_header.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 31728,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/quantica_header.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/images\/quantica_header.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/style\/style.css": {
+	"\/wp-content\/plugins\/contact-form-7\/admin\/css\/styles.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/documentation\/style\/style.css",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/css\/styles.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/export.php": {
+	"\/wp-content\/plugins\/contact-form-7\/admin\/edit-contact-form.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/export.php",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/edit-contact-form.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_01.png": {
-		"fileType": 32768,
+	"\/wp-content\/plugins\/contact-form-7\/admin\/includes\/admin-functions.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 202,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_01.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_01.png",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/includes\/admin-functions.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_02.png": {
-		"fileType": 32768,
+	"\/wp-content\/plugins\/contact-form-7\/admin\/includes\/class-contact-forms-list-table.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 158,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_02.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_02.png",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/includes\/class-contact-forms-list-table.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_03.png": {
-		"fileType": 32768,
+	"\/wp-content\/plugins\/contact-form-7\/admin\/includes\/editor.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 238,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_03.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_03.png",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/includes\/editor.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_04.png": {
-		"fileType": 32768,
+	"\/wp-content\/plugins\/contact-form-7\/admin\/includes\/help-tabs.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 224,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_04.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_04.png",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/includes\/help-tabs.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_05.png": {
-		"fileType": 32768,
+	"\/wp-content\/plugins\/contact-form-7\/admin\/includes\/tag-generator.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 340,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_05.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_05.png",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/includes\/tag-generator.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_06.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 330,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_06.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_06.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_07.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 313,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_07.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_07.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_08.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 158,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_08.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_08.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_09.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 198,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_09.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_09.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_10.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 158,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_10.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_10.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_11.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 237,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_11.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_11.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_12.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 224,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_12.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_12.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_13.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 341,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_13.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_13.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_14.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 328,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_14.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_14.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_15.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 312,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_15.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_15.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_16.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 158,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_16.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_16.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_17.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 439,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_17.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_17.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_18.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 343,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_18.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_18.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_19.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 528,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_19.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_19.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_20.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 473,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_20.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_20.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_21.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 422,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_21.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/cross_21.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/delete.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 347,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/delete.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/delete.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/info.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1506,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/info.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/info.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/less.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1122,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/less.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/less.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/more.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1181,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/more.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/more.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/navigation_map.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9348,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/navigation_map.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/navigation_map.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_best.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1934,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_best.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_best.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_buy.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1846,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_buy.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_buy.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_free.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1846,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_free.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_free.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_free_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1912,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_free_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_free_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_fresh.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1923,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_fresh.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_fresh.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_gift_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1732,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_gift_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_gift_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_heart.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1224,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_heart.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_heart.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_hot.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1768,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_hot.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_hot.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_hot_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1747,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_hot_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_hot_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_new.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1928,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_new.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_new.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_new_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1925,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_new_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_new_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_no1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1755,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_no1.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_no1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off10.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1810,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off10.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off10.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off15.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1810,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off15.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off15.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off20.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1871,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off20.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off20.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off25.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1868,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off25.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off25.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off30.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1865,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off30.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off30.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off35.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1862,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off35.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off35.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off40.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1818,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off40.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off40.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1628,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off5.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off50.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1859,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off50.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off50.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off75.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1838,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off75.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_off75.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_pack.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1789,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_pack.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_pack.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_pro.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1681,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_pro.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_pro.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_sale.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1708,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_sale.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_sale.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_save.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1889,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_save.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_save.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_save_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1952,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_save_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_save_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_top.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1712,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_top.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_top.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_top_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1632,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_top_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_top_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_trial.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1749,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_trial.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style1_trial.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_best.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2178,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_best.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_best.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_buy.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2105,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_buy.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_buy.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_free.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2047,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_free.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_free.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_free_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2173,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_free_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_free_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_fresh.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2157,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_fresh.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_fresh.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_gift_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2059,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_gift_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_gift_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_heart.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1555,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_heart.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_heart.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_hot.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2004,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_hot.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_hot.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_hot_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2008,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_hot_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_hot_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_new.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2130,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_new.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_new.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_new_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2149,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_new_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_new_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_no1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1958,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_no1.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_no1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off10.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2076,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off10.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off10.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off15.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2063,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off15.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off15.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off20.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2115,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off20.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off20.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off25.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2161,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off25.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off25.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off30.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2109,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off30.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off30.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off35.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2103,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off35.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off35.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off40.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2119,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off40.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off40.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1859,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off5.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off50.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2106,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off50.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off50.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off75.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2118,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off75.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_off75.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_pack.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2046,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_pack.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_pack.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_pro.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1947,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_pro.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_pro.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_sale.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1979,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_sale.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_sale.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_save.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2178,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_save.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_save.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_save_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2185,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_save_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_save_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_top.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1960,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_top.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_top.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_top_caps.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1904,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_top_caps.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_top_caps.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_trial.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2036,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_trial.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/ribbon_style2_trial.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_down.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1649,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_down.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_down.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_left.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1655,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_left.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_left.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_right.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1638,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_right.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_right.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_up.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1643,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_up.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/sort_arrow_up.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_01.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 197,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_01.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_01.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_02.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 238,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_02.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_02.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_03.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 231,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_03.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_03.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_04.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 329,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_04.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_04.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_05.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 336,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_05.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_05.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_06.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 326,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_06.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_06.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_07.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 334,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_07.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_07.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_08.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 196,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_08.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_08.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_09.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 196,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_09.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_09.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_10.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 237,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_10.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_10.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_11.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 231,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_11.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_11.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_12.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 330,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_12.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_12.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_13.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 337,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_13.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_13.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_14.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 327,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_14.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_14.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_15.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 338,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_15.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_15.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_16.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 196,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_16.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_16.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_17.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 418,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_17.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_17.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_18.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 397,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_18.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_18.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_19.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 509,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_19.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_19.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_20.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 502,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_20.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_20.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_21.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 496,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_21.png",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/img\/tick_21.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/css3_grid_admin.js": {
+	"\/wp-content\/plugins\/contact-form-7\/admin\/js\/scripts.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/css3_grid_admin.js",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/min\/css3_grid_admin-min.js",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/js\/scripts.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/js\/min\/scripts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/jquery.carouFredSel-6.2.1-packed.js": {
+	"\/wp-content\/plugins\/contact-form-7\/admin\/js\/tag-generator.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/jquery.carouFredSel-6.2.1-packed.js",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/min\/jquery.carouFredSel-6.2.1-packed-min.js",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/js\/tag-generator.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/admin\/js\/min\/tag-generator-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/jquery.easing.1.3.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/jquery.easing.1.3.js",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/min\/jquery.easing.1.3-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/jquery.touchSwipe.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/jquery.touchSwipe.min.js",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/min\/jquery.touchSwipe.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/main.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/main.js",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/js\/min\/main-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/live_preview_page.html": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/capabilities.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/live_preview_page.html",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/capabilities.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/responsive.css": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/contact-form-template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/contact-form-template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/contact-form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/contact-form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/controller.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/controller.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/css\/styles-rtl.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/responsive.css",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/css\/styles-rtl.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/table1\/css3_grid_style.css": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/css\/styles.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/table1\/css3_grid_style.css",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/css\/styles.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/css3_web_pricing_tables_grids\/table2\/css3_grid_style.css": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/formatting.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/formatting.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/integration.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/integration.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 332,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6922,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4549,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_454545_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6992,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_454545_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_454545_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_888888_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6999,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_888888_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_888888_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4549,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/jquery-ui.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/css3_web_pricing_tables_grids\/table2\/css3_grid_style.css",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/jquery-ui.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/envato-wordpress-toolkit\/assets\/css\/style.css": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/jquery-ui.min.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/assets\/css\/style.css",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/jquery-ui.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/envato-wordpress-toolkit\/assets\/js\/ajax-notification.js": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/jquery.ui.theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery-ui\/themes\/smoothness\/jquery.ui.theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery.form.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/assets\/js\/ajax-notification.js",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/assets\/js\/min\/ajax-notification-min.js",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery.form.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/min\/jquery.form-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-envato-api.php": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery.form.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/jquery.form.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/min\/jquery.form.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/js\/scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/scripts.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/js\/min\/scripts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/l10n.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-envato-api.php",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/l10n.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-envato-backup.php": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/mail.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-envato-backup.php",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/mail.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-github-updater.php": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/pipe.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-github-updater.php",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/pipe.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-wp-upgrader.php": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/shortcodes.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/includes\/class-wp-upgrader.php",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/shortcodes.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/envato-wordpress-toolkit\/index.php": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/submission.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/envato-wordpress-toolkit\/index.php",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/submission.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/hello.php": {
+	"\/wp-content\/plugins\/contact-form-7\/includes\/upgrade.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/hello.php",
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/upgrade.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/includes\/validation.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/includes\/validation.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/acceptance.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/acceptance.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/akismet.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/akismet.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/checkbox.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/checkbox.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/count.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/count.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/date.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/date.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/file.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/file.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/flamingo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/flamingo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/jetpack.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/jetpack.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/listo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/listo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/number.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/number.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/quiz.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/quiz.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/really-simple-captcha.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/really-simple-captcha.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/recaptcha.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/recaptcha.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/response.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/response.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/select.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/select.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/submit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/submit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/text.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/text.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/modules\/textarea.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/modules\/textarea.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/uninstall.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/uninstall.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/contact-form-7\/wp-contact-form-7.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/contact-form-7\/wp-contact-form-7.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -21756,24 +20909,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/plugin-activator\/class-tgm-plugin-activation.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/plugin-activator\/class-tgm-plugin-activation.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/plugin-activator\/init.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/plugin-activator\/init.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/wp-content\/plugins\/revslider\/admin\/assets\/css\/admin.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -27049,15 +26184,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/revslider\/backup\/captions-original.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/revslider\/backup\/captions-original.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/wp-content\/plugins\/revslider\/backup\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -27519,6 +26645,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/wp-content\/plugins\/revslider\/public\/assets\/css\/captions-original.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/revslider\/public\/assets\/css\/captions-original.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/wp-content\/plugins\/revslider\/public\/assets\/css\/index.php": {
 		"fileType": 8192,
@@ -28000,55 +27135,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/sweet-custom-menu\/custom_walker.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/sweet-custom-menu\/custom_walker.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/sweet-custom-menu\/edit_custom_walker.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/sweet-custom-menu\/edit_custom_walker.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/sweet-custom-menu\/screenshot-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 69037,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/sweet-custom-menu\/screenshot-1.jpg",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/sweet-custom-menu\/screenshot-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/plugins\/sweet-custom-menu\/script.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/sweet-custom-menu\/script.js",
-		"outputAbbreviatedPath": "\/wp-content\/plugins\/sweet-custom-menu\/min\/script-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/wp-content\/plugins\/sweet-custom-menu\/sweet-custom-menu.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/sweet-custom-menu\/sweet-custom-menu.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/wp-content\/plugins\/templatera\/assets\/css\/front_style.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -28312,33 +27398,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce\/woocommerce.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/wordpress-importer\/parsers.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/wordpress-importer\/parsers.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/wordpress-importer\/webnus-importer.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/wordpress-importer\/webnus-importer.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/plugins\/wordpress-importer\/wordpress-importer.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/wordpress-importer\/wordpress-importer.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -36648,6 +35707,162 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/plugin-activator\/class-tgm-plugin-activation.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/plugin-activator\/class-tgm-plugin-activation.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/plugin-activator\/init.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/plugin-activator\/init.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/custom_walker.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/custom_walker.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/edit_custom_walker.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/edit_custom_walker.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/screenshot-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69037,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/screenshot-1.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/screenshot-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/script.js",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/min\/script-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/sweet-custom-menu.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/sweet-custom-menu\/sweet-custom-menu.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/cross_white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/cross_white.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/cross_white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/select-arrow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 944,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/select-arrow.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/select-arrow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/star.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 459,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/star.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/star.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/star@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 793,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/star@2x.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/images\/star@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/woocommerce.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/woocommerce\/woocommerce.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/wordpress-importer\/parsers.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/wordpress-importer\/parsers.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/wordpress-importer\/webnus-importer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/wordpress-importer\/webnus-importer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/florida-wp\/inc\/plugins\/wordpress-importer\/wordpress-importer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/florida-wp\/inc\/plugins\/wordpress-importer\/wordpress-importer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/wp-content\/themes\/florida-wp\/inc\/shortcodes\/accordion.php": {
 		"fileType": 8192,

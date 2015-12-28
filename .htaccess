@@ -16,3 +16,4 @@ RewriteRule . /index.php [L]
 order allow,deny
 deny from all
 </files>
+
