@@ -829,3 +829,8 @@ document.createElement("section");
 
 
 })(jQuery);
+
+//Año en curso
+var fecha = new Date();
+var ano = fecha.getFullYear();
+document.getElementById("year").innerHTML = ano;
