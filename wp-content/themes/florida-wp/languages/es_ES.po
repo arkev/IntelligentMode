@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Florida\n"
 "POT-Creation-Date: 2015-09-30 16:23+0330\n"
-"PO-Revision-Date: 2016-01-19 18:22-0600\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2016-01-21 20:32-0600\n"
+"Last-Translator: Arkev <yosoy@arkev.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
@@ -127,196 +127,197 @@ msgstr "Por favor ingresa un captcha valido"
 #: inc/widgets/contactform.php:80
 #, php-format
 msgid "You have been contacted by %s"
-msgstr ""
+msgstr "has sido contactado por %s"
 
 #: contact.php:92 inc/shortcodes/contactform.php:92
 #, php-format
 msgid "Subject: %1$s"
-msgstr ""
+msgstr "Asunto: %1$s"
 
 #: contact.php:93 inc/shortcodes/contactform.php:93
 #: inc/widgets/contactform.php:81
 #, php-format
 msgid "You have been contacted by %1$s. Their message is:"
-msgstr ""
+msgstr "has sido contactado por %1$s. El mensaje es:"
 
 #: contact.php:95 inc/shortcodes/contactform.php:95
 #: inc/widgets/contactform.php:83
 #, php-format
 msgid "You can contact %1$s via email at %2$s"
-msgstr ""
+msgstr "Puedes contactar %1$s por correo electrónico a %2$s"
 
 #: contact.php:138 inc/nc-options/nc-options.php:266
 #: inc/nc-options/nc-options.php:403
 msgid "Contact Information"
-msgstr ""
+msgstr "Información de contacto"
 
 #: contact.php:139 inc/nc-options/nc-options.php:283
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #: contact.php:141 inc/nc-options/nc-options.php:288
 msgid "Phone"
-msgstr ""
+msgstr "Teléfono"
 
 #: contact.php:143 contact.php:169 inc/shortcodes/contactform.php:121
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónco"
 
 #: contact.php:160
 msgid "Whats your Name?"
-msgstr ""
+msgstr "¿Cuál es tu nombre?"
 
 #: contact.php:161 inc/shortcodes/contactform.php:116
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:63
 #: inc/visualcomposer/shortcodes/15-quote.php:21
 #: inc/visualcomposer/shortcodes/30-testimonial.php:14
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: contact.php:168
 msgid "Whats your Email?"
-msgstr ""
+msgstr "¿Cuál es tu correo electrónico?"
 
 #: contact.php:176
 msgid "Email Subject?"
-msgstr ""
+msgstr "¿Asunto del correo electrónico?"
 
 #: contact.php:177 inc/shortcodes/contactform.php:126
 msgid "Subject"
-msgstr ""
+msgstr "Asunto"
 
 #: contact.php:182
 msgid "Message to us"
-msgstr ""
+msgstr "Mensaje para nosotros"
 
 #: contact.php:198
 msgid "Send Message"
-msgstr ""
+msgstr "Enviar mensaje"
 
 #: contact.php:203 inc/shortcodes/contactform.php:148
 #: inc/widgets/contactform.php:126
 msgid "Your message has been sucessfully sent, thank you!"
-msgstr ""
+msgstr "Tu mensaje ha sido en"
 
 #: contact.php:207 inc/shortcodes/contactform.php:152
 #: inc/widgets/contactform.php:130
 msgid "Sorry, it seems there was an error."
-msgstr ""
+msgstr "Lo sentimos, parece que hubo un error."
 
 #: functions.php:201 inc/nc-options/nc-options.php:382
 msgid "Header Menu"
-msgstr ""
+msgstr "Menú del Header"
 
 #: functions.php:202
 msgid "Duplex Menu - Left"
-msgstr ""
+msgstr "Menú Duplex - Izquierda"
 
 #: functions.php:203
 msgid "Duplex Menu - Right"
-msgstr ""
+msgstr "Menú Duplex - Derecha"
 
 #: functions.php:204
 msgid "Footer Menu"
-msgstr ""
+msgstr "Menú del footer"
 
 #: functions.php:205
 msgid "Topbar Menu"
-msgstr ""
+msgstr "Menú del topbar"
 
 #: functions.php:206
 msgid "Left-Nav Menu"
-msgstr ""
+msgstr "Menú Left-Nav"
 
 #: functions.php:207
 msgid "Onepage Header Menu"
-msgstr ""
+msgstr "Menú del header de OnePage"
 
 #: functions.php:590
 msgid "Webnus Theme Option"
-msgstr ""
+msgstr "Opciones del template"
 
 #: functions.php:639
 msgid "Gallery Type"
-msgstr ""
+msgstr "Tipo de galería"
 
 #: header.php:47 inc/helpers/breadcrumbs.php:101
 msgid "Page"
-msgstr ""
+msgstr "Página"
 
 #: inc/cpt/employee.php:13
 msgid "Employee"
-msgstr ""
+msgstr "Empleado"
 
 #: inc/cpt/employee.php:16 inc/cpt/employee.php:86 inc/cpt/employee.php:91
 #: inc/cpt/employee.php:101
 msgid "employee"
-msgstr ""
+msgstr "empleado"
 
 #: inc/cpt/employee.php:21 inc/cpt/faq.php:21
 msgctxt "faq"
 msgid "Add Item"
-msgstr ""
+msgstr "Agregar elemento [FAQ]"
 
 #: inc/cpt/employee.php:24
 msgid "Edit Employee"
-msgstr ""
+msgstr "Editar empleado"
 
 #: inc/cpt/employee.php:27
 msgid "New Employee"
-msgstr ""
+msgstr "Nuevo empleado"
 
 #: inc/cpt/employee.php:30
 msgid "View Employee"
-msgstr ""
+msgstr "Ver empleado"
 
 #: inc/cpt/employee.php:33
 msgid "Search Employee"
-msgstr ""
+msgstr "Buscar empleado"
 
 #: inc/cpt/employee.php:36
 msgid "No Employee Found"
-msgstr ""
+msgstr "Empleado no encontrado"
 
 #: inc/cpt/employee.php:39
 msgid "No Employee Items Found In Trash"
-msgstr ""
+msgstr "No se encontraron elementos del empleado en la papelera de reciclaje"
 
 #: inc/cpt/employee.php:107
 #, php-format
 msgid "Employee Updated. <a href=\"%s\">View FAQ</a>"
-msgstr ""
+msgstr "Empleado actualizado <a href=\"%s\">Ver FAQ</a>"
 
 #: inc/cpt/employee.php:110 inc/cpt/faq.php:110 inc/cpt/portfolio.php:114
 msgid "Custom Field Updated."
-msgstr ""
+msgstr "El campo personalizado actualizado"
 
 #: inc/cpt/employee.php:113 inc/cpt/faq.php:113 inc/cpt/portfolio.php:117
 msgid "Custom Field Deleted."
-msgstr ""
+msgstr "El campo personalizado borrado"
 
 #: inc/cpt/employee.php:116
 msgid "Employee Updated."
-msgstr ""
+msgstr "Empleado actualizado"
 
 #: inc/cpt/employee.php:119
 #, php-format
 msgid "Employee Restored To Revision From %s"
-msgstr ""
+msgstr "Empleado restaurado a partir de revisiones %s"
 
 #: inc/cpt/employee.php:122
 #, php-format
 msgid "Employee Published. <a href=\"%s\">View FAQ</a>"
-msgstr ""
+msgstr "Empleado publicado. <a href=\"%s\">Ver FAQ</a>"
 
 #: inc/cpt/employee.php:125
 msgid "Employee Saved."
-msgstr ""
+msgstr "empleado guardado"
 
 #: inc/cpt/employee.php:128
 #, php-format
 msgid "Employee Submitted. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
 msgstr ""
+"Empleado enviado. <a target=\"_blank\" href=\"%s\">Previsualizar FAQ</a>"
 
 #: inc/cpt/employee.php:131
 #, php-format
@@ -324,81 +325,85 @@ msgid ""
 "Employee Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href="
 "\"%2$s\">Preview FAQ</a>"
 msgstr ""
+"Empleado calendarizado para: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Previsualizar FAQ</a>"
 
 #: inc/cpt/employee.php:131 inc/cpt/faq.php:131 inc/cpt/portfolio.php:135
 msgid "M j, Y @ G:i"
-msgstr ""
+msgstr "M j, Y @ G:i"
 
 #: inc/cpt/employee.php:134
 #, php-format
 msgid ""
 "Employee Draft Updated. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
 msgstr ""
+"Borrador de empleado actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar FAQ</a>"
 
 #: inc/cpt/employee.php:155
 msgid "Enter Employee name"
-msgstr ""
+msgstr "Ingresar nombre del empleado"
 
 #: inc/cpt/faq.php:13 inc/cpt/faq.php:16
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: inc/cpt/faq.php:24
 msgid "Edit FAQ Item"
-msgstr ""
+msgstr "Editar elemento FAQ"
 
 #: inc/cpt/faq.php:27
 msgid "New FAQ Item"
-msgstr ""
+msgstr "Nuevo elemento FAQ"
 
 #: inc/cpt/faq.php:30
 msgid "View FAQ"
-msgstr ""
+msgstr "Ver FAQ"
 
 #: inc/cpt/faq.php:33
 msgid "Search FAQ"
-msgstr ""
+msgstr "Buscar FAQ"
 
 #: inc/cpt/faq.php:36
 msgid "No FAQ Items Found"
-msgstr ""
+msgstr "No se encontraron elementos FAQ"
 
 #: inc/cpt/faq.php:39
 msgid "No FAQ Items Found In Trash"
-msgstr ""
+msgstr "No se encontraron elementos FAQ en la papelera de reciclaje"
 
 #: inc/cpt/faq.php:86 inc/cpt/faq.php:91 inc/cpt/faq.php:101
 #: inc/cpt/faq.php:147
 msgid "faq"
-msgstr ""
+msgstr "faq"
 
 #: inc/cpt/faq.php:107
 #, php-format
 msgid "FAQ Updated. <a href=\"%s\">View FAQ</a>"
-msgstr ""
+msgstr "FAQ actualizado. <a href=\"%s\">Ver FAQ</a>"
 
 #: inc/cpt/faq.php:116
 msgid "FAQ Updated."
-msgstr ""
+msgstr "FAQ actualizado."
 
 #: inc/cpt/faq.php:119
 #, php-format
 msgid "FAQ Restored To Revision From %s"
-msgstr ""
+msgstr "FAQ restaurado desde revisiones %s"
 
 #: inc/cpt/faq.php:122
 #, php-format
 msgid "FAQ Published. <a href=\"%s\">View FAQ</a>"
-msgstr ""
+msgstr "FAQ Publicado. <a href=\"%s\">Ver FAQ</a>"
 
 #: inc/cpt/faq.php:125
 msgid "FAQ Saved."
-msgstr ""
+msgstr "FAQ guardado."
 
 #: inc/cpt/faq.php:128
 #, php-format
 msgid "FAQ Submitted. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
-msgstr ""
+msgstr "FAQ enviada <a target=\"_blank\" href=\"%s\">Previsualizar FAQ</a>"
 
 #: inc/cpt/faq.php:131
 #, php-format
@@ -406,87 +411,93 @@ msgid ""
 "FAQ Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
 "\">Preview FAQ</a>"
 msgstr ""
+"FAQ Calendarizada para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Previsualizar FAQ</a>"
 
 #: inc/cpt/faq.php:134
 #, php-format
 msgid "FAQ Draft Updated. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
 msgstr ""
+"FAQ borrador actualizado. <a target=\"_blank\" href=\"%s\">Previsualizar "
+"FAQ</a>"
 
 #: inc/cpt/faq.php:144 inc/cpt/portfolio.php:148
 msgid "filter"
-msgstr ""
+msgstr "filtro"
 
 #: inc/cpt/faq.php:152 inc/cpt/faq.php:153 inc/cpt/portfolio.php:156
 #: inc/cpt/portfolio.php:157
 msgid "Categories"
-msgstr ""
+msgstr "Categorías"
 
 #: inc/cpt/portfolio.php:13 inc/cpt/portfolio.php:16
 msgid "Portfolio"
-msgstr ""
+msgstr "Portafolio"
 
 #: inc/cpt/portfolio.php:22 inc/cpt/portfolio.php:95 inc/cpt/portfolio.php:105
 #: inc/cpt/portfolio.php:151
 msgid "portfolio"
-msgstr ""
+msgstr "portafolio"
 
 #: inc/cpt/portfolio.php:26
 msgctxt "portfolio"
 msgid "Add Item"
-msgstr ""
+msgstr "Agregar elemento"
 
 #: inc/cpt/portfolio.php:29
 msgid "Edit Portfolio Item"
-msgstr ""
+msgstr "Editar elemento de portafolio"
 
 #: inc/cpt/portfolio.php:32
 msgid "New Portfolio Item"
-msgstr ""
+msgstr "Nuevo elemento de portafolio"
 
 #: inc/cpt/portfolio.php:35
 msgid "View Portfolio"
-msgstr ""
+msgstr "Ver portafolio"
 
 #: inc/cpt/portfolio.php:38
 msgid "Search Portfolio"
-msgstr ""
+msgstr "Buscar portafolio"
 
 #: inc/cpt/portfolio.php:41
 msgid "No Portfolio Items Found"
-msgstr ""
+msgstr "No se encontraron elementos de portafolio"
 
 #: inc/cpt/portfolio.php:44
 msgid "No Portfolio Items Found In Trash"
-msgstr ""
+msgstr "No se encontraron elementos de portafolio en la papelera de reciclaje"
 
 #: inc/cpt/portfolio.php:111
 #, php-format
 msgid "Portfolio Updated. <a href=\"%s\">View portfolio</a>"
-msgstr ""
+msgstr "Portafolio actualizado. <a href=\"%s\">Ver portafolio</a>"
 
 #: inc/cpt/portfolio.php:120
 msgid "Portfolio Updated."
-msgstr ""
+msgstr "Portafolio actualizado"
 
 #: inc/cpt/portfolio.php:123
 #, php-format
 msgid "Portfolio Restored To Revision From %s"
-msgstr ""
+msgstr "Portafolio restaurado a partir de revisiones de %s"
 
 #: inc/cpt/portfolio.php:126
 #, php-format
 msgid "Portfolio Published. <a href=\"%s\">View Portfolio</a>"
-msgstr ""
+msgstr "Portafolio publicado. <a href=\"%s\">Ver portafolio</a>"
 
 #: inc/cpt/portfolio.php:129
 msgid "Portfolio Saved."
-msgstr ""
+msgstr "Portafolio guardado."
 
 #: inc/cpt/portfolio.php:132
 #, php-format
 msgid ""
 "Portfolio Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
 msgstr ""
+"Portafolio enviado. <a target=\"_blank\" href=\"%s\">Previsualizar "
+"portafolio</a>"
 
 #: inc/cpt/portfolio.php:135
 #, php-format
@@ -494,6 +505,8 @@ msgid ""
 "Portfolio Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href="
 "\"%2$s\">Preview Portfolio</a>"
 msgstr ""
+"Portafolio agendado para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Previsualizar portafolio</a>"
 
 #: inc/cpt/portfolio.php:138
 #, php-format
@@ -501,173 +514,178 @@ msgid ""
 "Portfolio Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio</"
 "a>"
 msgstr ""
+"Borrador de portafolio actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar Portafolio</a>"
 
 #: inc/helpers/wp-pagenavi/admin.php:12
 msgid "PageNavi Settings"
-msgstr ""
+msgstr "Ajustes de Navegación de páginas"
 
 #: inc/helpers/wp-pagenavi/admin.php:13
 msgid "PageNavi"
-msgstr ""
+msgstr "Navegación de páginas"
 
 #: inc/helpers/wp-pagenavi/admin.php:31
 msgid "Text For Number Of Pages"
-msgstr ""
+msgstr "Texto para números de páginas"
 
 #: inc/helpers/wp-pagenavi/admin.php:36
 msgid "The current page number."
-msgstr ""
+msgstr "El número de la página actual."
 
 #: inc/helpers/wp-pagenavi/admin.php:37 inc/helpers/wp-pagenavi/admin.php:61
 #: inc/helpers/wp-pagenavi/admin.php:69
 msgid "The total number of pages."
-msgstr ""
+msgstr "El número total de páginas."
 
 #: inc/helpers/wp-pagenavi/admin.php:41
 msgid "Text For Current Page"
-msgstr ""
+msgstr "Texto para la página actual"
 
 #: inc/helpers/wp-pagenavi/admin.php:45 inc/helpers/wp-pagenavi/admin.php:53
 msgid "The page number."
-msgstr ""
+msgstr "El número de página"
 
 #: inc/helpers/wp-pagenavi/admin.php:49
 msgid "Text For Page"
-msgstr ""
+msgstr "Texto para página"
 
 #: inc/helpers/wp-pagenavi/admin.php:57
 msgid "Text For First Page"
-msgstr ""
+msgstr "Texto para la primera página"
 
 #: inc/helpers/wp-pagenavi/admin.php:65
 msgid "Text For Last Page"
-msgstr ""
+msgstr "Texto para la última página"
 
 #: inc/helpers/wp-pagenavi/admin.php:73
 msgid "Text For Previous Page"
-msgstr ""
+msgstr "Texto para la página previa"
 
 #: inc/helpers/wp-pagenavi/admin.php:79
 msgid "Text For Next Page"
-msgstr ""
+msgstr "Texto para la siguiente página"
 
 #: inc/helpers/wp-pagenavi/admin.php:85
 msgid "Text For Previous ..."
-msgstr ""
+msgstr "Texto para anterior..."
 
 #: inc/helpers/wp-pagenavi/admin.php:91
 msgid "Text For Next ..."
-msgstr ""
+msgstr "Texto para siguiente..."
 
 #: inc/helpers/wp-pagenavi/admin.php:98
 msgid "Page Navigation Text"
-msgstr ""
+msgstr "Texto para página de navegación "
 
 #: inc/helpers/wp-pagenavi/admin.php:99
 msgid "Leaving a field blank will hide that part of the navigation."
-msgstr ""
+msgstr "Dejando a un campo en blanco, se oculta la parte de la navegación."
 
 #: inc/helpers/wp-pagenavi/admin.php:105
 msgid "Use pagenavi-css.css"
-msgstr ""
+msgstr "Usar pagenavi-css.css"
 
 #: inc/helpers/wp-pagenavi/admin.php:111
 msgid "Page Navigation Style"
-msgstr ""
+msgstr "Estilo de navegación de páginas"
 
 #: inc/helpers/wp-pagenavi/admin.php:114
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: inc/helpers/wp-pagenavi/admin.php:114
 msgid "Drop-down List"
-msgstr ""
+msgstr "Lista desplegable"
 
 #: inc/helpers/wp-pagenavi/admin.php:119
 msgid "Always Show Page Navigation"
-msgstr ""
+msgstr "Siempre mostras navegación de páginas"
 
 #: inc/helpers/wp-pagenavi/admin.php:122
 msgid "Show navigation even if there's only one page."
-msgstr ""
+msgstr "Mostrar la navegación, incluso si solo hay una página"
 
 #: inc/helpers/wp-pagenavi/admin.php:126
 msgid "Number Of Pages To Show"
-msgstr ""
+msgstr "Numero de páginas a mostrar"
 
 #: inc/helpers/wp-pagenavi/admin.php:133
 msgid "Number Of Larger Page Numbers To Show"
-msgstr ""
+msgstr "Numero de páginas grandes a mostrar"
 
 #: inc/helpers/wp-pagenavi/admin.php:138
 msgid ""
 "Larger page numbers are in addition to the normal page numbers. They are "
 "useful when there are many pages of posts."
 msgstr ""
+"Números de páginas grandes son, además de los números normales de página. "
+"Son útiles cuando hay muchas páginas de mensajes."
 
 #: inc/helpers/wp-pagenavi/admin.php:139
 msgid ""
 "For example, WP-PageNavi will display: Pages 1, 2, 3, 4, 5, 10, 20, 30, 40, "
 "50."
 msgstr ""
+"Por ejemplo, WP-PageNavi mostrará: Páginas 1, 2, 3, 4, 5, 10, 20, 30, 40, 50."
 
 #: inc/helpers/wp-pagenavi/admin.php:140
 msgid "Enter 0 to disable."
-msgstr ""
+msgstr "Ingresar 0 para desactivar"
 
 #: inc/helpers/wp-pagenavi/admin.php:144
 msgid "Show Larger Page Numbers In Multiples Of"
-msgstr ""
+msgstr "Mostrar números de páginas grandes en múltiplos de"
 
 #: inc/helpers/wp-pagenavi/admin.php:149
 msgid "For example, if mutiple is 5, it will show: 5, 10, 15, 20, 25"
-msgstr ""
+msgstr "Por ejemplo, si múltiplo es 5, se mostrará: 5, 10, 15, 20, 25"
 
 #: inc/helpers/wp-pagenavi/admin.php:154
 msgid "Page Navigation Options"
-msgstr ""
+msgstr "Opciones de navegación de páginas"
 
 #: inc/helpers/wp-pagenavi/scb/AdminPage.php:170
 msgid "Settings <strong>saved</strong>."
-msgstr ""
+msgstr "Adjustes <strong>guardados</strong>."
 
 #: inc/helpers/wp-pagenavi/scb/AdminPage.php:183
 #: inc/helpers/wp-pagenavi/scb/AdminPage.php:194
 msgid "Save Changes"
-msgstr ""
+msgstr "Guardar cambios"
 
 #: inc/helpers/wp-pagenavi/scb/AdminPage.php:343
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 #: inc/helpers/wp-pagenavi/wp-pagenavi.php:20
 msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
-msgstr ""
+msgstr "Página %CURRENT_PAGE% de %TOTAL_PAGES%"
 
 #: inc/helpers/wp-pagenavi/wp-pagenavi.php:23
 msgid "&laquo; First"
-msgstr ""
+msgstr "&laquo; Primera"
 
 #: inc/helpers/wp-pagenavi/wp-pagenavi.php:24
 msgid "Last &raquo;"
-msgstr ""
+msgstr "Último &raquo;"
 
 #: inc/helpers/wp-pagenavi/wp-pagenavi.php:25
 msgid "&laquo;"
-msgstr ""
+msgstr "&laquo;"
 
 #: inc/helpers/wp-pagenavi/wp-pagenavi.php:26
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: inc/helpers/wp-pagenavi/wp-pagenavi.php:27
 #: inc/helpers/wp-pagenavi/wp-pagenavi.php:28
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: inc/nc-options/nc-options.php:31
 msgid "A Section added by hook"
-msgstr ""
+msgstr "Una sección agregada por anzuelo"
 
 #: inc/nc-options/nc-options.php:32
 msgid ""
@@ -675,56 +693,63 @@ msgid ""
 "sections array, great to allow child themes, to add/remove sections from the "
 "options.</p>"
 msgstr ""
+"<p class=\"description\">Esta es una sección creada por la adición de un "
+"filtro a la matriz de secciones, para permitir temas hijos, añadir / "
+"eliminar secciones de las opciones.</p>"
 
 #: inc/nc-options/nc-options.php:97
 msgid ""
 "<p>webnus theme options. all about theme option which can be edited is here."
 "</p>"
 msgstr ""
+"<p>Opciones del tema. Todo los ajustes del tema pueden ser editado desde "
+"aquí.</p>"
 
 #: inc/nc-options/nc-options.php:124 inc/nc-options/nc-options.php:127
 msgid "Theme Options"
-msgstr ""
+msgstr "Ajustes del tema"
 
 #: inc/nc-options/nc-options.php:167
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: inc/nc-options/nc-options.php:168
 msgid "<p class=\"description\">Setup the general options of theme.</p>"
 msgstr ""
+"<p class=\"description\">Configurar las opciones generales del tema.</p>"
 
 #: inc/nc-options/nc-options.php:174
 msgid "Template"
-msgstr ""
+msgstr "Plantilla"
 
 #: inc/nc-options/nc-options.php:182
 msgid "Responsive"
-msgstr ""
+msgstr "Responsivo"
 
 #: inc/nc-options/nc-options.php:191
 msgid "CSS Minifier"
-msgstr ""
+msgstr "Minificador CSS"
 
 #: inc/nc-options/nc-options.php:199
 msgid "Layout"
-msgstr ""
+msgstr "Maquetación"
 
 #: inc/nc-options/nc-options.php:209
 msgid "Container max-with"
-msgstr ""
+msgstr "Contenedor ancho máximo"
 
 #: inc/nc-options/nc-options.php:217
 msgid "Custom Favicon"
-msgstr ""
+msgstr "Favicon personalizado"
 
 #: inc/nc-options/nc-options.php:218
 msgid "An ico image that will represent your website's favicon (16px x 16px)"
 msgstr ""
+"Una imagen ico que representará el favicon de su sitio web (16px x 16px)"
 
 #: inc/nc-options/nc-options.php:223
 msgid "Apple iPhone Icon"
-msgstr ""
+msgstr "Icono de iPhone Apple"
 
 #: inc/nc-options/nc-options.php:224
 msgid "Icon for Apple iPhone (57px x 57px)"
