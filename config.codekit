@@ -47725,35 +47725,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/themes\/Florida_child_theme\/functions.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/Florida_child_theme\/functions.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/themes\/Florida_child_theme\/screenshot.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 407485,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/Florida_child_theme\/screenshot.png",
-		"outputAbbreviatedPath": "\/wp-content\/themes\/Florida_child_theme\/screenshot.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/wp-content\/themes\/Florida_child_theme\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/Florida_child_theme\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/wp-content\/themes\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -47776,7 +47747,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 281960,
+		"initialSize": 407485,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/Intelligent Mode\/screenshot.png",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/Intelligent Mode\/screenshot.png",
 		"outputPathIsOutsideProject": 0,

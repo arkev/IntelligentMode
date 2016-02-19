@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Florida\n"
 "POT-Creation-Date: 2015-09-30 16:23+0330\n"
-"PO-Revision-Date: 2016-01-21 20:32-0600\n"
+"PO-Revision-Date: 2016-02-12 18:44-0600\n"
 "Last-Translator: Arkev <yosoy@arkev.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -753,65 +753,67 @@ msgstr "Icono de iPhone Apple"
 
 #: inc/nc-options/nc-options.php:224
 msgid "Icon for Apple iPhone (57px x 57px)"
-msgstr ""
+msgstr "Ícono para iPhone (57x 57px)"
 
 #: inc/nc-options/nc-options.php:229
 msgid "Apple iPad Icon"
-msgstr ""
+msgstr "ícono para iPad"
 
 #: inc/nc-options/nc-options.php:230
 msgid "Icon for Apple iPad (72px x 72px)"
-msgstr ""
+msgstr "ícono para iPad (72 x 72px)"
 
 #: inc/nc-options/nc-options.php:235
 msgid "Tracking Code"
-msgstr ""
+msgstr "Código de rastreo"
 
 #: inc/nc-options/nc-options.php:236
 msgid ""
 "Paste your Google Analytics (or other) tracking code here. This will be "
 "added into the footer template of your theme."
 msgstr ""
+"Pega aquí tu código de Google Analtics (u otro código de rastreo). este será "
+"agregado dentro el Footer de la plantilla."
 
 #: inc/nc-options/nc-options.php:237
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: inc/nc-options/nc-options.php:242
 msgid "Allow Comments On Pages"
-msgstr ""
+msgstr "Permitir comentarios en la página"
 
 #: inc/nc-options/nc-options.php:243
 msgid "Allow comments on regular pages."
-msgstr ""
+msgstr "Permitir comentarios en páginas regulares"
 
 #: inc/nc-options/nc-options.php:248
 msgid "Space Before &lt;/head&gt;"
-msgstr ""
+msgstr "Espacio antes &lt;/head&gt;"
 
 #: inc/nc-options/nc-options.php:249
 msgid "Add code before the &lt;/head&gt; tag."
-msgstr ""
+msgstr "Agrega código antes del cierre de la etiqueta &lt;/head&gt;"
 
 #: inc/nc-options/nc-options.php:254
 msgid "Space Before &lt;/body&gt;"
-msgstr ""
+msgstr "Espacio antes de &lt;/body&gt;"
 
 #: inc/nc-options/nc-options.php:255
 msgid "Add code before the &lt;/body&gt; tag."
-msgstr ""
+msgstr "Agrega código antes de la etiqueta &lt;/body&gt;"
 
 #: inc/nc-options/nc-options.php:260
 msgid "Slogan"
-msgstr ""
+msgstr "Eslogan"
 
 #: inc/nc-options/nc-options.php:261
 msgid "Slogan Text"
-msgstr ""
+msgstr "Texto del eslogan"
 
 #: inc/nc-options/nc-options.php:271
 msgid "reCaptcha Site key"
-msgstr ""
+msgstr "reCaptcha llave del sitio"
 
 #: inc/nc-options/nc-options.php:272
 msgid ""
@@ -820,30 +822,35 @@ msgid ""
 "click <a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank"
 "\">here</a>.</p>"
 msgstr ""
+"<p class=\"description\">Registra tu sitio web y obtén la llave secreta. "
+"Primero piensa que necesitas registrar tu sitio web en Google recaptcha para "
+"hacer click <a href=\"https://www.google.com/recaptcha/admin#list\" target="
+"\"_blank\">aquí</a>.</p>"
 
 #: inc/nc-options/nc-options.php:277
 msgid "reCaptcha Secret key"
-msgstr ""
+msgstr "reCaptcha llave secreta"
 
 #: inc/nc-options/nc-options.php:293
 msgid "Email Address"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: inc/nc-options/nc-options.php:298
 msgid "Google Map Embed Source"
-msgstr ""
+msgstr "Código de Google Maps"
 
 #: inc/nc-options/nc-options.php:303
 msgid "Admin Login Logo"
-msgstr ""
+msgstr "Logo para el inicio de sesión"
 
 #: inc/nc-options/nc-options.php:304
 msgid "Please choose an image file for admin login page logo."
 msgstr ""
+"Por favor escoge una imagen para el logo de la pantalla de inicio de sesión."
 
 #: inc/nc-options/nc-options.php:309
 msgid "Toggle Top Area"
-msgstr ""
+msgstr "Alternar la zona Top"
 
 #: inc/nc-options/nc-options.php:310 inc/nc-options/nc-options.php:473
 #: inc/nc-options/nc-options.php:526 inc/nc-options/nc-options.php:533
@@ -858,7 +865,7 @@ msgstr ""
 #: inc/nc-options/nc-options.php:1968 inc/nc-options/nc-options.php:1981
 #: inc/nc-options/nc-options.php:1994
 msgid "Hide"
-msgstr ""
+msgstr "Esconder"
 
 #: inc/nc-options/nc-options.php:310 inc/nc-options/nc-options.php:473
 #: inc/nc-options/nc-options.php:526 inc/nc-options/nc-options.php:533
@@ -873,64 +880,66 @@ msgstr ""
 #: inc/nc-options/nc-options.php:1968 inc/nc-options/nc-options.php:1981
 #: inc/nc-options/nc-options.php:1994
 msgid "Show"
-msgstr ""
+msgstr "Mostrar"
 
 #: inc/nc-options/nc-options.php:316
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "Migajas "
 
 #: inc/nc-options/nc-options.php:327
 msgid "Header Options"
-msgstr ""
+msgstr "Opciones del Header"
 
 #: inc/nc-options/nc-options.php:332 inc/nc-options/nc-options.php:1859
 #: inc/nc-options/nc-options.php:1866
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: inc/nc-options/nc-options.php:333
 msgid ""
 "Please choose an image file for your logo.<br/> For Retina displays please "
 "add Image in large size and set custom width."
 msgstr ""
+"For favor escote uno images para tu logo.<br/> Para retina display por favor "
+"agrega una imagen de gran formato y ajusta el ancho."
 
 #: inc/nc-options/nc-options.php:338
 msgid "Logo width"
-msgstr ""
+msgstr "Ancho del logo"
 
 #: inc/nc-options/nc-options.php:345
 msgid "Transparent header logo"
-msgstr ""
+msgstr "Logo del header transparente"
 
 #: inc/nc-options/nc-options.php:351
 msgid "Transparent header logo width"
-msgstr ""
+msgstr "Ancho del logo transparente"
 
 #: inc/nc-options/nc-options.php:357
 msgid "Sticky header logo"
-msgstr ""
+msgstr "Logo fijo del header"
 
 #: inc/nc-options/nc-options.php:363
 msgid "Sticky header logo width"
-msgstr ""
+msgstr "ancho del logo fijo del header"
 
 #: inc/nc-options/nc-options.php:370
 msgid "Header padding-bottom"
-msgstr ""
+msgstr "Padding-buttom del header"
 
 #: inc/nc-options/nc-options.php:376
 msgid "Header padding-top"
-msgstr ""
+msgstr "Padding-top del header"
 
 #: inc/nc-options/nc-options.php:387
 msgid "Sticky Menu"
-msgstr ""
+msgstr "Menú fijo"
 
 #: inc/nc-options/nc-options.php:388 inc/nc-options/nc-options.php:447
 #: inc/nc-options/nc-options.php:1103 inc/nc-options/nc-options.php:1628
 #: inc/nc-options/nc-options.php:1651 inc/nc-options/nc-options.php:1658
 msgid "Disable"
-msgstr ""
+msgstr "Desactivar"
 
 #: inc/nc-options/nc-options.php:388 inc/nc-options/nc-options.php:447
 #: inc/nc-options/nc-options.php:1103 inc/nc-options/nc-options.php:1628
@@ -940,627 +949,633 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/09-googlemap.php:65
 #: inc/visualcomposer/shortcodes/40-contactform.php:30
 msgid "Enable"
-msgstr ""
+msgstr "Activar"
 
 #: inc/nc-options/nc-options.php:394
 msgid "Scrolls value to sticky the header"
-msgstr ""
+msgstr "Valor del scroll para fijar el header"
 
 #: inc/nc-options/nc-options.php:395
 msgid ""
 "<br>enter your desired amount (by pixel) which by scrolling that amount, "
 "sticky menu will appear in page."
 msgstr ""
+"<br>ingresa tu la cantidad deseada (en pixeles), que al momento de hacer "
+"scroll en header quedará fijo en la página"
 
 #: inc/nc-options/nc-options.php:401
 msgid "Logo Right side"
-msgstr ""
+msgstr "Logo del lado derecho"
 
 #: inc/nc-options/nc-options.php:402 inc/nc-options/nc-options.php:437
 msgid "For Header Type 2,3,4,5,9"
-msgstr ""
+msgstr "Para el header tipo 2,3,4,5,9"
 
 #: inc/nc-options/nc-options.php:403 inc/nc-options/nc-options.php:682
 msgid "None"
-msgstr ""
+msgstr "Ninguna"
 
 #: inc/nc-options/nc-options.php:403
 msgid "Search Box"
-msgstr ""
+msgstr "Caja de búsqueda "
 
 #: inc/nc-options/nc-options.php:403 inc/sidebars/general-sidebars.php:133
 #: inc/sidebars/general-sidebars.php:135
 msgid "Header Sidebar"
-msgstr ""
+msgstr "Header Sidebar"
 
 #: inc/nc-options/nc-options.php:409
 msgid "Header Phone Number"
-msgstr ""
+msgstr "Número telefónico del header"
 
 #: inc/nc-options/nc-options.php:415
 msgid "Header Email Address"
-msgstr ""
+msgstr "Correo electrónico del header"
 
 #: inc/nc-options/nc-options.php:421
 msgid "Select Header Layout"
-msgstr ""
+msgstr "Selecciona la disposición del header"
 
 #: inc/nc-options/nc-options.php:423
 msgid "Header Type 1"
-msgstr ""
+msgstr "Header tipo 1"
 
 #: inc/nc-options/nc-options.php:424
 msgid "Header Type 2"
-msgstr ""
+msgstr "Header tipo 2"
 
 #: inc/nc-options/nc-options.php:425
 msgid "Header Type 3"
-msgstr ""
+msgstr "Header tipo 3"
 
 #: inc/nc-options/nc-options.php:426
 msgid "Header Type 4"
-msgstr ""
+msgstr "Header tipo 4"
 
 #: inc/nc-options/nc-options.php:427
 msgid "Header Type 5"
-msgstr ""
+msgstr "Header tipo 5"
 
 #: inc/nc-options/nc-options.php:428
 msgid "Header Type 6"
-msgstr ""
+msgstr "Header tipo 6"
 
 #: inc/nc-options/nc-options.php:429
 msgid "Header Type 7"
-msgstr ""
+msgstr "Header tipo 7"
 
 #: inc/nc-options/nc-options.php:436
 msgid "Logo Alignment"
-msgstr ""
+msgstr "Liberación del logo"
 
 #: inc/nc-options/nc-options.php:445
 msgid "Search in Header"
-msgstr ""
+msgstr "Buscar dentro del header"
 
 #: inc/nc-options/nc-options.php:446
 msgid "For Header Type 1"
-msgstr ""
+msgstr "Para el tipo 1 del header"
 
 #: inc/nc-options/nc-options.php:454
 msgid "Responsive header"
-msgstr ""
+msgstr "Header responsivo"
 
 #: inc/nc-options/nc-options.php:457
 msgid "Modern"
-msgstr ""
+msgstr "Moderno"
 
 #: inc/nc-options/nc-options.php:458
 msgid "Classic"
-msgstr ""
+msgstr "Clasico"
 
 #: inc/nc-options/nc-options.php:467
 msgid "Topbar Options"
-msgstr ""
+msgstr "Opciones para el TopBar"
 
 #: inc/nc-options/nc-options.php:472
 msgid "Show/Hide TopBar"
-msgstr ""
+msgstr "Mostrar/ocultar el TopBar"
 
 #: inc/nc-options/nc-options.php:480
 msgid "Topbar background color"
-msgstr ""
+msgstr "Color de fondo del Topbar"
 
 #: inc/nc-options/nc-options.php:481 inc/nc-options/nc-options.php:675
 #: inc/nc-options/nc-options.php:1838 inc/nc-options/nc-options.php:1845
 msgid "Pick a background color"
-msgstr ""
+msgstr "Aleje un color de fondo"
 
 #: inc/nc-options/nc-options.php:489
 msgid "Topbar Left side"
-msgstr ""
+msgstr "Lado izquierdo del TopBar"
 
 #: inc/nc-options/nc-options.php:490
 msgid "Select Topbar left side content"
-msgstr ""
+msgstr "Selecciona el contenido del lado izquierdo del ToBar"
 
 #: inc/nc-options/nc-options.php:497
 msgid "Topbar Right side"
-msgstr ""
+msgstr "Lado derecho del TopBar"
 
 #: inc/nc-options/nc-options.php:498
 msgid "Select Topbar right side content"
-msgstr ""
+msgstr "Selecciona contenido para el lado derecho del TopBar"
 
 #: inc/nc-options/nc-options.php:505
 msgid "Topbar Left side tag line"
-msgstr ""
+msgstr "Lado izquierdo de la línea de etiquetas del TopBar"
 
 #: inc/nc-options/nc-options.php:506 inc/nc-options/nc-options.php:513
 msgid "<br>Insert Any Headline Or Link You Want Here"
-msgstr ""
+msgstr "<br>Ingresa cualquier encabezado o enlace aquí"
 
 #: inc/nc-options/nc-options.php:512
 msgid "Topbar Right side tag line"
-msgstr ""
+msgstr "Lado derecho de la línea de etiquetas del TopBar"
 
 #: inc/nc-options/nc-options.php:520
 msgid "TopBar Social Icons"
-msgstr ""
+msgstr "Íconos sociales del TopBar"
 
 #: inc/nc-options/nc-options.php:525
 msgid "Facebook Icon"
-msgstr ""
+msgstr "Ícono de Facebook"
 
 #: inc/nc-options/nc-options.php:532
 msgid "Twitter Icon"
-msgstr ""
+msgstr "Ícono de Twitter"
 
 #: inc/nc-options/nc-options.php:539
 msgid "Dribbble Icon"
-msgstr ""
+msgstr "Ícono de Dribbble"
 
 #: inc/nc-options/nc-options.php:546
 msgid "Pinterest Icon"
-msgstr ""
+msgstr "Ícono de Pinterest "
 
 #: inc/nc-options/nc-options.php:553
 msgid "Vimeo Icon"
-msgstr ""
+msgstr "Ícono de Vimeo"
 
 #: inc/nc-options/nc-options.php:560
 msgid "Youtube Icon"
-msgstr ""
+msgstr "Ícono de Youtube"
 
 #: inc/nc-options/nc-options.php:567
 msgid "Google+ Icon"
-msgstr ""
+msgstr "Ícono de Google+"
 
 #: inc/nc-options/nc-options.php:574
 msgid "LinkedIn Icon"
-msgstr ""
+msgstr "Ícono de LinkedIn"
 
 #: inc/nc-options/nc-options.php:581
 msgid "RSS Icon"
-msgstr ""
+msgstr "Ícono de RSS"
 
 #: inc/nc-options/nc-options.php:588
 msgid "Instagram Icon"
-msgstr ""
+msgstr "Ícono de Instagram"
 
 #: inc/nc-options/nc-options.php:595
 msgid "Flickr Icon"
-msgstr ""
+msgstr "Ícono de Flickr"
 
 #: inc/nc-options/nc-options.php:602
 msgid "Reddit Icon"
-msgstr ""
+msgstr "Ícono de Reddit"
 
 #: inc/nc-options/nc-options.php:609
 msgid "Delicious Icon"
-msgstr ""
+msgstr "Ícono de Delicious"
 
 #: inc/nc-options/nc-options.php:616
 msgid "LastFM Icon"
-msgstr ""
+msgstr "Ícono de LastFM"
 
 #: inc/nc-options/nc-options.php:623
 msgid "Tumblr Icon"
-msgstr ""
+msgstr "Ícono de Tumblr"
 
 #: inc/nc-options/nc-options.php:630
 msgid "Skype Icon"
-msgstr ""
+msgstr "Ícono de Skype"
 
 #: inc/nc-options/nc-options.php:642
 msgid "Background"
-msgstr ""
+msgstr "Fondo"
 
 #: inc/nc-options/nc-options.php:654
 #: inc/visualcomposer/setup/setup_row.php:120
 msgid "Background Image"
-msgstr ""
+msgstr "Imagen de fondo"
 
 #: inc/nc-options/nc-options.php:655
 msgid "Please choose an image or insert an image url to use for the backgroud."
 msgstr ""
+"Por favor coloca una imagen o ingresa una URL de una imagen para usarla como "
+"fondo"
 
 #: inc/nc-options/nc-options.php:660
 msgid "100% Background Image"
-msgstr ""
+msgstr "Imagen de fondo al 100%"
 
 #: inc/nc-options/nc-options.php:661
 msgid ""
 "Have background image always at 100% in width and height and scale according "
 "to the browser size"
 msgstr ""
+"Haga que la imagen de fondo esté siempre al 100% en anchura y altura y la "
+"escala según el tamaño del navegador"
 
 #: inc/nc-options/nc-options.php:667
 msgid "Background Repeat"
-msgstr ""
+msgstr "Repetir fondo"
 
 #: inc/nc-options/nc-options.php:668
 msgid "repeat"
-msgstr ""
+msgstr "Repetir"
 
 #: inc/nc-options/nc-options.php:668
 msgid "repeat-x"
-msgstr ""
+msgstr "Repetir en X"
 
 #: inc/nc-options/nc-options.php:668
 msgid "repeat-y"
-msgstr ""
+msgstr "Repetir en Y"
 
 #: inc/nc-options/nc-options.php:668
 msgid "no-repeat"
-msgstr ""
+msgstr "No repetir"
 
 #: inc/nc-options/nc-options.php:674
 #: inc/visualcomposer/setup/setup_row.php:248
 msgid "Background Color"
-msgstr ""
+msgstr "Color de fondo"
 
 #: inc/nc-options/nc-options.php:681
 msgid "Background Pattern"
-msgstr ""
+msgstr "Patron de fondo"
 
 #: inc/nc-options/nc-options.php:683
 msgid "Default BG"
-msgstr ""
+msgstr "Fondo por defecto"
 
 #: inc/nc-options/nc-options.php:683
 msgid "Gray Jean"
-msgstr ""
+msgstr "Gris Jean"
 
 #: inc/nc-options/nc-options.php:683
 msgid "Light Wool"
-msgstr ""
+msgstr "Luz Lana"
 
 #: inc/nc-options/nc-options.php:684
 msgid "Subtle Freckles"
-msgstr ""
+msgstr "Pecas sutiles"
 
 #: inc/nc-options/nc-options.php:685
 msgid "Subtle Freckles 2"
-msgstr ""
+msgstr "Pecas sutiles"
 
 #: inc/nc-options/nc-options.php:686
 msgid "Green Fibers"
-msgstr ""
+msgstr "Fibras verdes"
 
 #: inc/nc-options/nc-options.php:687
 msgid "Dust"
-msgstr ""
+msgstr "Polvo"
 
 #: inc/nc-options/nc-options.php:700
 msgid "Typography"
-msgstr ""
+msgstr "Tipografía"
 
 #: inc/nc-options/nc-options.php:710
 msgid "Custom font 1 .woff"
-msgstr ""
+msgstr "Fuente personalizada 1 .woff"
 
 #: inc/nc-options/nc-options.php:711
 msgid "Upload the .woff font file for custom font 1"
-msgstr ""
+msgstr "Subir archivo .woff para la fuente personalizada 1"
 
 #: inc/nc-options/nc-options.php:717
 msgid "Custom font 1 .ttf"
-msgstr ""
+msgstr "Fuente personalizada 1 .ttf"
 
 #: inc/nc-options/nc-options.php:718
 msgid "Upload the .ttf font file for custom font 1"
-msgstr ""
+msgstr "Subir archivo .ttf para la fuente personalizada 1"
 
 #: inc/nc-options/nc-options.php:724
 msgid "custom font 1 .eot"
-msgstr ""
+msgstr "Fuente personalizada 1 .eot"
 
 #: inc/nc-options/nc-options.php:725
 msgid "Upload the .eot font file for custom font 1"
-msgstr ""
+msgstr "Subir archivo .eot para la fuente personalizada 1"
 
 #: inc/nc-options/nc-options.php:737
 msgid "Custom font 2 .woff"
-msgstr ""
+msgstr "Fuente personalizada 2 .woff"
 
 #: inc/nc-options/nc-options.php:738
 msgid "Upload the .woff font file for custom font 2"
-msgstr ""
+msgstr "Subir archivo .woff para la fuente personalizada 2"
 
 #: inc/nc-options/nc-options.php:744
 msgid "Custom font 2 .ttf"
-msgstr ""
+msgstr "Fuente personalizada 2 .ttf"
 
 #: inc/nc-options/nc-options.php:745
 msgid "Upload the .ttf font file for custom font 2"
-msgstr ""
+msgstr "Subir archivo .ttf para la fuente personalizada 2"
 
 #: inc/nc-options/nc-options.php:751
 msgid "custom font 2 .eot"
-msgstr ""
+msgstr "Fuente personalizada 2 .eot"
 
 #: inc/nc-options/nc-options.php:752
 msgid "Upload the .eot font file for custom font 2"
-msgstr ""
+msgstr "Subir archivo .eot para la fuente personalizada 2"
 
 #: inc/nc-options/nc-options.php:764
 msgid "Custom font 3 .woff"
-msgstr ""
+msgstr "Fuente personalizada 3 .woff"
 
 #: inc/nc-options/nc-options.php:765
 msgid "Upload the .woff font file for custom font 3"
-msgstr ""
+msgstr "Subir archivo .woff para la fuente personalizada 3"
 
 #: inc/nc-options/nc-options.php:771
 msgid "Custom font 3 .ttf"
-msgstr ""
+msgstr "Fuente personalizada 3 .ttf"
 
 #: inc/nc-options/nc-options.php:772
 msgid "Upload the .ttf font file for custom font 3"
-msgstr ""
+msgstr "Subir archivo .ttf para la fuente personalizada 3"
 
 #: inc/nc-options/nc-options.php:778
 msgid "custom font 3 .eot"
-msgstr ""
+msgstr "Fuente personalizada 1 .eot"
 
 #: inc/nc-options/nc-options.php:779
 msgid "Upload the .eot font file for custom font 3"
-msgstr ""
+msgstr "Subir archivo .eot para la fuente personalizada 3"
 
 #: inc/nc-options/nc-options.php:791
 msgid "Typekit Kit ID"
-msgstr ""
+msgstr "ID de TypeKid "
 
 #: inc/nc-options/nc-options.php:796
 msgid "Typekit Font Family 1"
-msgstr ""
+msgstr "Fuente TypeKid 1"
 
 #: inc/nc-options/nc-options.php:801
 msgid "Typekit Font Family 2"
-msgstr ""
+msgstr "Fuente TypeKid 2"
 
 #: inc/nc-options/nc-options.php:806
 msgid "Typekit Font Family 3"
-msgstr ""
+msgstr "Fuente TypeKid 3"
 
 #: inc/nc-options/nc-options.php:817
 msgid "Select Body Font Family"
-msgstr ""
+msgstr "Selecciona la fuente para el Body"
 
 #: inc/nc-options/nc-options.php:818
 msgid "Select a font family for body text"
-msgstr ""
+msgstr "Selecciona una fuente para los textos del Body"
 
 #: inc/nc-options/nc-options.php:824
 msgid "Select Headings Font"
-msgstr ""
+msgstr "Selecciona fuente para los encabezados"
 
 #: inc/nc-options/nc-options.php:825
 msgid "Select a font family for headings"
-msgstr ""
+msgstr "Selecciona una fuente para usar en los encabezados"
 
 #: inc/nc-options/nc-options.php:831
 msgid "Select Paragraph Font"
-msgstr ""
+msgstr "Selecciona fuente para párrafos "
 
 #: inc/nc-options/nc-options.php:832
 msgid "Select a font family for paragraphs"
-msgstr ""
+msgstr "Selecciona una fuente para usar en los párrafos "
 
 #: inc/nc-options/nc-options.php:838
 msgid "Select Menu Font"
-msgstr ""
+msgstr "Seleccionar fuente para el menú"
 
 #: inc/nc-options/nc-options.php:839
 msgid "Select a font family for menu"
-msgstr ""
+msgstr "Selecciona una fuente para el menú"
 
 #: inc/nc-options/nc-options.php:853
 msgid "Header Menu font-size"
-msgstr ""
+msgstr "Tamaño de fuente del menú del Header"
 
 #: inc/nc-options/nc-options.php:859
 msgid "Header Menu letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de menú del Header"
 
 #: inc/nc-options/nc-options.php:865
 msgid "Header Menu line-height"
-msgstr ""
+msgstr "Espacio entre renglones del menú del Header"
 
 #: inc/nc-options/nc-options.php:883
 msgid "P font-size"
-msgstr ""
+msgstr "Tamaño de letra de la etiqueta P"
 
 #: inc/nc-options/nc-options.php:889
 msgid "P letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de la etiqueta P"
 
 #: inc/nc-options/nc-options.php:895
 msgid "P line-height"
-msgstr ""
+msgstr "Espacio entre renglones de la etiqueta P"
 
 #: inc/nc-options/nc-options.php:906
 msgid "H1 font-size"
-msgstr ""
+msgstr "Tamaño de letra de la etiqueta H1"
 
 #: inc/nc-options/nc-options.php:912
 msgid "H1 letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de la etiqueta H1"
 
 #: inc/nc-options/nc-options.php:918
 msgid "H1 line-height"
-msgstr ""
+msgstr "Espacio entre renglones de la etiqueta H1"
 
 #: inc/nc-options/nc-options.php:925
 msgid "H1 font-color"
-msgstr ""
+msgstr "Color de la étiqueta H1"
 
 #: inc/nc-options/nc-options.php:932
 msgid "H2 font-size"
-msgstr ""
+msgstr "Tamaño de letra de la etiqueta H2"
 
 #: inc/nc-options/nc-options.php:938
 msgid "H2 letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de la etiqueta H2"
 
 #: inc/nc-options/nc-options.php:944
 msgid "H2 line-height"
-msgstr ""
+msgstr "Espacio entre renglones de la etiqueta H2"
 
 #: inc/nc-options/nc-options.php:950
 msgid "H2 font-color"
-msgstr ""
+msgstr "Color de la étiqueta H2"
 
 #: inc/nc-options/nc-options.php:959
 msgid "H3 font-size"
-msgstr ""
+msgstr "Tamaño de letra de la etiqueta H3"
 
 #: inc/nc-options/nc-options.php:965
 msgid "H3 letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de la etiqueta H3"
 
 #: inc/nc-options/nc-options.php:971
 msgid "H3 line-height"
-msgstr ""
+msgstr "Espacio entre renglones de la etiqueta H3"
 
 #: inc/nc-options/nc-options.php:977
 msgid "H3 font-color"
-msgstr ""
+msgstr "Color de la étiqueta H3"
 
 #: inc/nc-options/nc-options.php:984
 msgid "H4 font-size"
-msgstr ""
+msgstr "Tamaño de letra de la etiqueta H4"
 
 #: inc/nc-options/nc-options.php:990
 msgid "H4 letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de la etiqueta H4"
 
 #: inc/nc-options/nc-options.php:996
 msgid "H4 line-height"
-msgstr ""
+msgstr "Espacio entre renglones de la etiqueta H4"
 
 #: inc/nc-options/nc-options.php:1002
 msgid "H4 font-color"
-msgstr ""
+msgstr "Color de la étiqueta H4"
 
 #: inc/nc-options/nc-options.php:1010
 msgid "H5 font-size"
-msgstr ""
+msgstr "Tamaño de letra de la etiqueta H5"
 
 #: inc/nc-options/nc-options.php:1016
 msgid "H5 letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de la etiqueta H5"
 
 #: inc/nc-options/nc-options.php:1022
 msgid "H5 line-height"
-msgstr ""
+msgstr "Espacio entre renglones de la etiqueta H5"
 
 #: inc/nc-options/nc-options.php:1028
 msgid "H5 font-color"
-msgstr ""
+msgstr "Color de la étiqueta H5"
 
 #: inc/nc-options/nc-options.php:1036
 msgid "H6 font-size"
-msgstr ""
+msgstr "Tamaño de letra de la etiqueta H6"
 
 #: inc/nc-options/nc-options.php:1042
 msgid "H6 letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras de la etiqueta H6"
 
 #: inc/nc-options/nc-options.php:1048
 msgid "H6 line-height"
-msgstr ""
+msgstr "Espacio entre renglones de la etiqueta H6"
 
 #: inc/nc-options/nc-options.php:1054
 msgid "H6 font-color"
-msgstr ""
+msgstr "Color de la étiqueta H6"
 
 #: inc/nc-options/nc-options.php:1063
 msgid "Styling Options"
-msgstr ""
+msgstr "Opciones de estilos"
 
 #: inc/nc-options/nc-options.php:1069
 msgid "Predefined Color Skin"
-msgstr ""
+msgstr "Color de piel predefinido"
 
 #: inc/nc-options/nc-options.php:1097 inc/nc-options/nc-options.php:1110
 msgid "Custom Color Skin"
-msgstr ""
+msgstr "Color de piel personalizado"
 
 #: inc/nc-options/nc-options.php:1102
 msgid "Custom Color Skin Enable/Disable"
-msgstr ""
+msgstr "Activas/Desactivar color de piel personalizado"
 
 #: inc/nc-options/nc-options.php:1104
 msgid "Enable or Disable Custom Color Skin"
-msgstr ""
+msgstr "Activar o desactivar el color de piel personalizado"
 
 #: inc/nc-options/nc-options.php:1111
 msgid "Choose custom color for color skin"
-msgstr ""
+msgstr "Escoge un color personalizado para el color de piel"
 
 #: inc/nc-options/nc-options.php:1124
 msgid "Unvisited Link Color"
-msgstr ""
+msgstr "Color del la liga sin visitar"
 
 #: inc/nc-options/nc-options.php:1130
 msgid "Mouse Over Link Color"
-msgstr ""
+msgstr "Color de la liga al pasar por encima el mouse "
 
 #: inc/nc-options/nc-options.php:1136
 msgid "Visited Link Color "
-msgstr ""
+msgstr "Color de la liga al ser visitada"
 
 #: inc/nc-options/nc-options.php:1148
 msgid "Header Menu Link Color"
-msgstr ""
+msgstr "Color de la liga del menú del Header"
 
 #: inc/nc-options/nc-options.php:1154
 msgid "Header Menu Link Hover Color"
-msgstr ""
+msgstr "Color de la liga del menú del Header al pasar por encima el mouse "
 
 #: inc/nc-options/nc-options.php:1160
 msgid "Header Menu Link Selected Color"
-msgstr ""
+msgstr "Color de la liga del menú del Header al ser seleccionado"
 
 #: inc/nc-options/nc-options.php:1166
 msgid "Header Menu Selected Border Color"
-msgstr ""
+msgstr "Color del borde del menú del Header al ser seleccionado"
 
 #: inc/nc-options/nc-options.php:1172
 msgid "Responsive Menu Icon Color"
-msgstr ""
+msgstr "Color del ícono del menú responsivo"
 
 #: inc/nc-options/nc-options.php:1340
 msgid "Blog Options"
-msgstr ""
+msgstr "Opciones del blog"
 
 #: inc/nc-options/nc-options.php:1341
 msgid "<p class=\"description\">Customize Blogs</p>"
-msgstr ""
+msgstr "<p class=\"description\">Personalizar blogs</p>"
 
 #: inc/nc-options/nc-options.php:1347
 msgid "BlogTemplate"
-msgstr ""
+msgstr "Plantilla del blog"
 
 #: inc/nc-options/nc-options.php:1348
 msgid "Blog 1(Full Width Image)"
-msgstr ""
+msgstr "Blog 1 (Imagen de todo el ancho)"
 
 #: inc/nc-options/nc-options.php:1348
 msgid "Blog 2(Thumbnail Image)"
-msgstr ""
+msgstr "Blog 2 (Imagen de vista previa)"
 
 #: inc/nc-options/nc-options.php:1354
 msgid "Blog Page Title"
-msgstr ""
+msgstr "Título de la página del blog"
 
 #: inc/nc-options/nc-options.php:1360
 msgid "Blog Page Title Show/Hide"
-msgstr ""
+msgstr "Mostrar/Ocultar el título de la página del blog"
 
 #: inc/nc-options/nc-options.php:1368
 msgid "Featured Image"
-msgstr ""
+msgstr "Imagen destacada"
 
 #: inc/nc-options/nc-options.php:1369 inc/nc-options/nc-options.php:1376
 #: inc/nc-options/nc-options.php:1383 inc/nc-options/nc-options.php:1390
@@ -1569,7 +1584,7 @@ msgstr ""
 #: inc/nc-options/nc-options.php:1427 inc/nc-options/nc-options.php:1435
 #: inc/nc-options/nc-options.php:1478 inc/nc-options/nc-options.php:1686
 msgid "Off"
-msgstr ""
+msgstr "Apagar"
 
 #: inc/nc-options/nc-options.php:1369 inc/nc-options/nc-options.php:1376
 #: inc/nc-options/nc-options.php:1383 inc/nc-options/nc-options.php:1390
@@ -1578,504 +1593,508 @@ msgstr ""
 #: inc/nc-options/nc-options.php:1427 inc/nc-options/nc-options.php:1435
 #: inc/nc-options/nc-options.php:1478 inc/nc-options/nc-options.php:1686
 msgid "On"
-msgstr ""
+msgstr "Encender"
 
 #: inc/nc-options/nc-options.php:1375
 msgid "Featured Image on Single Post Page"
-msgstr ""
+msgstr "Imagen destacada en página de entrada simple "
 
 #: inc/nc-options/nc-options.php:1382
 msgid "Post Title"
-msgstr ""
+msgstr "Título de la entrada"
 
 #: inc/nc-options/nc-options.php:1389
 #: inc/visualcomposer/setup/setup_postgrid.php:36
 msgid "Metadata Date"
-msgstr ""
+msgstr "Metadatos de la fecha"
 
 #: inc/nc-options/nc-options.php:1396
 #: inc/visualcomposer/setup/setup_postgrid.php:34
 msgid "Metadata Author"
-msgstr ""
+msgstr "Metadatos del autor"
 
 #: inc/nc-options/nc-options.php:1403
 msgid "Gravatar"
-msgstr ""
+msgstr "Gravatar"
 
 #: inc/nc-options/nc-options.php:1410
 #: inc/visualcomposer/setup/setup_postgrid.php:35
 msgid "Metadata Category"
-msgstr ""
+msgstr "Metadatos de la categoría"
 
 #: inc/nc-options/nc-options.php:1418
 #: inc/visualcomposer/setup/setup_postgrid.php:37
 msgid "Metadata Comments"
-msgstr ""
+msgstr "Metadatos de los comentarios"
 
 #: inc/nc-options/nc-options.php:1426
 msgid "Metadata Views"
-msgstr ""
+msgstr "Metadatos de las vistas"
 
 #: inc/nc-options/nc-options.php:1434
 msgid "Single post Authorbox"
-msgstr ""
+msgstr "Entrada simple de la caja del autor"
 
 #: inc/nc-options/nc-options.php:1442
 msgid "Excerpt Or Full Blog Content"
-msgstr ""
+msgstr "Extrato o contenido completo del blog"
 
 #: inc/nc-options/nc-options.php:1443
 msgid "Show excerpt or Full Blog Content On Blog Pages"
-msgstr ""
+msgstr "Mostrar extracto o el contenido completo en las páginas del blog"
 
 #: inc/nc-options/nc-options.php:1444
 msgid "Excerpt"
-msgstr ""
+msgstr "Extracto"
 
 #: inc/nc-options/nc-options.php:1444
 msgid "&nbsp;&nbsp;&nbsp;Full&nbsp;&nbsp;&nbsp;"
-msgstr ""
+msgstr "&nbsp;&nbsp;&nbsp;Todo&nbsp;&nbsp;&nbsp;"
 
 #: inc/nc-options/nc-options.php:1450
 msgid "Excerpt Length"
-msgstr ""
+msgstr "Longitud del extracto"
 
 #: inc/nc-options/nc-options.php:1456
 msgid "Read More Text"
-msgstr ""
+msgstr "Leer más..."
 
 #: inc/nc-options/nc-options.php:1462
 msgid "Blog Sidebar Position"
-msgstr ""
+msgstr "posición del sidebar del blog"
 
 #: inc/nc-options/nc-options.php:1469
 msgid "Single Post Sidebar Position"
-msgstr ""
+msgstr "Posición del sidebar en entrada sencilla"
 
 #: inc/nc-options/nc-options.php:1477
 msgid "Social Share Links"
-msgstr ""
+msgstr "Ligas de las redes para compartir"
 
 #: inc/nc-options/nc-options.php:1492
 msgid "Blog Title Font Family"
-msgstr ""
+msgstr "Fuente de título del blog"
 
 #: inc/nc-options/nc-options.php:1499
 msgid "Blog Loop Title font-size"
-msgstr ""
+msgstr "Tamaño de la fuente del título del blog en bucle"
 
 #: inc/nc-options/nc-options.php:1507
 msgid "Blog Loop Title line-height"
-msgstr ""
+msgstr "Espacio entre renglones del título del blog en bucle"
 
 #: inc/nc-options/nc-options.php:1514
 msgid "Blog Loop Title font-weight"
-msgstr ""
+msgstr "Grosor de la fuente del título del blog en bucle"
 
 #: inc/nc-options/nc-options.php:1523
 msgid "Blog Loop Title letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras del título del blog en bucle"
 
 #: inc/nc-options/nc-options.php:1531
 msgid "Blog Loop Title color"
-msgstr ""
+msgstr "Color del título del blog en bucle"
 
 #: inc/nc-options/nc-options.php:1538
 msgid "Blog Loop Title hover-color"
 msgstr ""
+"Color del título al pasar en mouse por encima del título del blog en bucle"
 
 #: inc/nc-options/nc-options.php:1545
 msgid "Blog Single Title font-size"
-msgstr ""
+msgstr "Tamaño de la fuente del título del blog sencillo"
 
 #: inc/nc-options/nc-options.php:1553
 msgid "Blog Single Title line-height"
-msgstr ""
+msgstr "Espacio entre renglones del título del blog sencillo"
 
 #: inc/nc-options/nc-options.php:1560
 msgid "Blog Single Title font-weight"
-msgstr ""
+msgstr "Grosor de la fuente del título del blog sencillo"
 
 #: inc/nc-options/nc-options.php:1569
 msgid "Blog Single Title letter-spacing"
-msgstr ""
+msgstr "Espacio entre letras del título del blog sencillo"
 
 #: inc/nc-options/nc-options.php:1576
 msgid "Blog Single Title color"
-msgstr ""
+msgstr "Color del título del blog sencillo"
 
 #: inc/nc-options/nc-options.php:1596
 msgid "Portfolio Options"
-msgstr ""
+msgstr "Opciones de portafolio"
 
 #: inc/nc-options/nc-options.php:1601
 msgid "Portfolio Slug"
-msgstr ""
+msgstr "Portfolio Slug"
 
 #: inc/nc-options/nc-options.php:1627
 msgid "Enable/Disable Portfolio Isotope Effect"
-msgstr ""
+msgstr "Activar/Desactivar efecto Isótopo del portafolio"
 
 #: inc/nc-options/nc-options.php:1635
 msgid "Portfolio Image Width in(px)"
-msgstr ""
+msgstr "Ancho en pixeles de la imagen del portafolio"
 
 #: inc/nc-options/nc-options.php:1642
 msgid "Portfolio Image Height in(px)"
-msgstr ""
+msgstr "Alto en pixeles de la imagen del portafolio"
 
 #: inc/nc-options/nc-options.php:1650
 msgid "Enable/Disable Recent Works In Single Portfolio Item"
 msgstr ""
+"Activar/Desactivar trabajos recientes en elemento de portafolio sencillo "
 
 #: inc/nc-options/nc-options.php:1657
 msgid "Enable/Disable LikeBox In Single Portfolio Item"
-msgstr ""
+msgstr "Activar/Desactivar LikeBox en elemento de portafolio sencillo "
 
 #: inc/nc-options/nc-options.php:1665
 msgid "Portfolio columns"
-msgstr ""
+msgstr "Columnas de portafolio"
 
 #: inc/nc-options/nc-options.php:1666
 msgid "2 Columns"
-msgstr ""
+msgstr "2 columnas"
 
 #: inc/nc-options/nc-options.php:1666
 msgid "3 Columns"
-msgstr ""
+msgstr "3 columnas"
 
 #: inc/nc-options/nc-options.php:1667
 msgid "4 Columns"
-msgstr ""
+msgstr "4 columnas"
 
 #: inc/nc-options/nc-options.php:1668
 msgid "5 Columns"
-msgstr ""
+msgstr "5 columnas"
 
 #: inc/nc-options/nc-options.php:1669
 msgid "6 Columns"
-msgstr ""
+msgstr "6 columnas"
 
 #: inc/nc-options/nc-options.php:1676
 msgid "Portfolio layout"
-msgstr ""
+msgstr "Disposición de portafolio"
 
 #: inc/nc-options/nc-options.php:1677
 msgid "Full-width"
-msgstr ""
+msgstr "Todo el ancho"
 
 #: inc/nc-options/nc-options.php:1677
 msgid "Boxed"
-msgstr ""
+msgstr "Encajonado"
 
 #: inc/nc-options/nc-options.php:1685
 #: inc/visualcomposer/shortcodes/28-recentworks.php:91
 msgid "Space between columns"
-msgstr ""
+msgstr "Espacio entre columnas"
 
 #: inc/nc-options/nc-options.php:1698
 msgid "Social Networks"
-msgstr ""
+msgstr "Redes sociales"
 
 #: inc/nc-options/nc-options.php:1699
 msgid "<p class=\"description\">Customize The Social Network Accounts</p>"
 msgstr ""
+"<p class=\"description\">Personalizar cuentas de las redes sociales</p>"
 
 #: inc/nc-options/nc-options.php:1704
 msgid "Twitter URL"
-msgstr ""
+msgstr "URL de Twitter"
 
 #: inc/nc-options/nc-options.php:1705
 msgid "Example: http://twitter.com/mytwitterid"
-msgstr ""
+msgstr "Ejemplo: http://twitter.com/mytwitterid"
 
 #: inc/nc-options/nc-options.php:1711
 msgid "Facebook Link"
-msgstr ""
+msgstr "URL de Facebook"
 
 #: inc/nc-options/nc-options.php:1712
 msgid "Example: http://facebook.com/myfacebook"
-msgstr ""
+msgstr "Ejemplo: http://facebook.com/myfacebook"
 
 #: inc/nc-options/nc-options.php:1718
 msgid "Youtube Link"
-msgstr ""
+msgstr "URL de Youtube"
 
 #: inc/nc-options/nc-options.php:1719
 msgid "Example: http://youtube.com/account"
-msgstr ""
+msgstr "Ejemplo: http://youtube.com/account"
 
 #: inc/nc-options/nc-options.php:1725
 msgid "Linkedin Link"
-msgstr ""
+msgstr "URL de LinkedIn"
 
 #: inc/nc-options/nc-options.php:1726
 msgid "Example: http://linkedin/linkedinid"
-msgstr ""
+msgstr "Ejemplo: http://linkedin/linkedinid"
 
 #: inc/nc-options/nc-options.php:1732
 msgid "Dribbble Link"
-msgstr ""
+msgstr "URL de Dribbble"
 
 #: inc/nc-options/nc-options.php:1733
 msgid "Example: http://dribbble.com/dribbbleid"
-msgstr ""
+msgstr "Ejemplo: http://dribbble.com/dribbbleid"
 
 #: inc/nc-options/nc-options.php:1739
 msgid "Pinterest Link"
-msgstr ""
+msgstr "URL de Pinterest"
 
 #: inc/nc-options/nc-options.php:1740
 msgid "Example: http://pinterest/pinterestid"
-msgstr ""
+msgstr "Ejemplo: http://pinterest/pinterestid"
 
 #: inc/nc-options/nc-options.php:1746
 msgid "Vimeo Link"
-msgstr ""
+msgstr "URL de Vimeo"
 
 #: inc/nc-options/nc-options.php:1747
 msgid "Example: http://vimeo.com/"
-msgstr ""
+msgstr "Ejemplo: http://vimeo.com/"
 
 #: inc/nc-options/nc-options.php:1753
 msgid "Google+ Link"
-msgstr ""
+msgstr "URL de Google+"
 
 #: inc/nc-options/nc-options.php:1754
 msgid "Example: http://plus.google.com/"
-msgstr ""
+msgstr "Eejemplo: http://plus.google.com/"
 
 #: inc/nc-options/nc-options.php:1760
 msgid "RSS Link"
-msgstr ""
+msgstr "URL de RSS"
 
 #: inc/nc-options/nc-options.php:1761
 msgid "Example: http://exaple.com/rss"
-msgstr ""
+msgstr " Ejemplo: http://exaple.com/rss"
 
 #: inc/nc-options/nc-options.php:1767
 msgid "Instagram URL"
-msgstr ""
+msgstr "URL de Instagram"
 
 #: inc/nc-options/nc-options.php:1768
 msgid "Instagram Link URL"
-msgstr ""
+msgstr "Enlace URL de Instagram"
 
 #: inc/nc-options/nc-options.php:1774
 msgid "Flickr URL"
-msgstr ""
+msgstr "URL de Flickr"
 
 #: inc/nc-options/nc-options.php:1775
 msgid "Flickr Link URL"
-msgstr ""
+msgstr "Enlace URL de  Flicker"
 
 #: inc/nc-options/nc-options.php:1781
 msgid "Reddit URL"
-msgstr ""
+msgstr "URL de Reddit"
 
 #: inc/nc-options/nc-options.php:1782
 msgid "Reddit Link URL"
-msgstr ""
+msgstr "Enlace URL de Reddit"
 
 #: inc/nc-options/nc-options.php:1788
 msgid "Lastfm URL"
-msgstr ""
+msgstr "URL de LastFM"
 
 #: inc/nc-options/nc-options.php:1789
 msgid "Lastfm Link URL"
-msgstr ""
+msgstr "Enlace URL de LastFM"
 
 #: inc/nc-options/nc-options.php:1796
 msgid "Delicious URL"
-msgstr ""
+msgstr "URL de  Delicious"
 
 #: inc/nc-options/nc-options.php:1797
 msgid "Delicious Link URL"
-msgstr ""
+msgstr "Enlace URL de Delicious"
 
 #: inc/nc-options/nc-options.php:1803
 msgid "Tumblr URL"
-msgstr ""
+msgstr "URL de  Tumblr"
 
 #: inc/nc-options/nc-options.php:1804
 msgid "Tumblr Link URL"
-msgstr ""
+msgstr "Enlace URL de Tumblr"
 
 #: inc/nc-options/nc-options.php:1810
 msgid "Skype URL"
-msgstr ""
+msgstr "URL de Skype"
 
 #: inc/nc-options/nc-options.php:1811
 msgid "Skype Link URL"
-msgstr ""
+msgstr "Enlace URL de Skype"
 
 #: inc/nc-options/nc-options.php:1823
 msgid "Footer Options"
-msgstr ""
+msgstr "Opciones del footer"
 
 #: inc/nc-options/nc-options.php:1824
 msgid "<p class=\"description\">Customize Footer</p>"
-msgstr ""
+msgstr "<p class=\"description\">Personalize el footer</p>"
 
 #: inc/nc-options/nc-options.php:1830
 msgid "Footer Bottom Show/Hide"
-msgstr ""
+msgstr "Montrar/Ocultar el Footer inferior"
 
 #: inc/nc-options/nc-options.php:1837
 msgid "Footer background color"
-msgstr ""
+msgstr "Color de fondo de Footer"
 
 #: inc/nc-options/nc-options.php:1844
 msgid "Footer bottom background color"
-msgstr ""
+msgstr "Color de fondo del Footer inferior"
 
 #: inc/nc-options/nc-options.php:1851
 msgid "Footer Color Style"
-msgstr ""
+msgstr "Estilo de color del footer"
 
 #: inc/nc-options/nc-options.php:1852
 msgid "Dark"
-msgstr ""
+msgstr "Obscuro "
 
 #: inc/nc-options/nc-options.php:1852
 msgid "Light"
-msgstr ""
+msgstr "Claro"
 
 #: inc/nc-options/nc-options.php:1858
 msgid "Footer Bottom Left Content"
-msgstr ""
+msgstr "Contenido del Footer inferior izquierdo"
 
 #: inc/nc-options/nc-options.php:1859 inc/nc-options/nc-options.php:1866
 msgid "Menu"
-msgstr ""
+msgstr "Menú"
 
 #: inc/nc-options/nc-options.php:1859 inc/nc-options/nc-options.php:1866
 msgid "Copyright"
-msgstr ""
+msgstr "Derechos de autor"
 
 #: inc/nc-options/nc-options.php:1865
 msgid "Footer Bottom Right Content"
-msgstr ""
+msgstr "Contenido del Footer derecho izquierdo"
 
 #: inc/nc-options/nc-options.php:1874
 msgid "Footer Logo"
-msgstr ""
+msgstr "Logo del Footer"
 
 #: inc/nc-options/nc-options.php:1875
 msgid "Please choose an image file for footer logo."
-msgstr ""
+msgstr "Por favor escoge una imagen para el logo del Footer"
 
 #: inc/nc-options/nc-options.php:1880
 msgid "Footer Copyright Text"
-msgstr ""
+msgstr "Texto de derechos de autor del Footer"
 
 #: inc/nc-options/nc-options.php:1886
 msgid "Footer Type"
-msgstr ""
+msgstr "Estilo de Footer"
 
 #: inc/nc-options/nc-options.php:1887
 msgid "Footer Layout 1"
-msgstr ""
+msgstr "Distribución del Footer 1"
 
 #: inc/nc-options/nc-options.php:1888
 msgid "Footer Layout 2"
-msgstr ""
+msgstr "Distribución del Footer 2"
 
 #: inc/nc-options/nc-options.php:1889
 msgid "Footer Layout 3"
-msgstr ""
+msgstr "Distribución del Footer 3"
 
 #: inc/nc-options/nc-options.php:1890
 msgid "Footer Layout 4"
-msgstr ""
+msgstr "Distribución del Footer 4"
 
 #: inc/nc-options/nc-options.php:1891
 msgid "Footer Layout 5"
-msgstr ""
+msgstr "Distribución del Footer 5"
 
 #: inc/nc-options/nc-options.php:1892
 msgid "Footer Layout 6"
-msgstr ""
+msgstr "Distribución del Footer 6"
 
 #: inc/nc-options/nc-options.php:1905
 msgid "404 Page"
-msgstr ""
+msgstr "Página 404"
 
 #: inc/nc-options/nc-options.php:1906
 msgid "<p class=\"description\">Customize Default 404 Page(Page Not Found)</p>"
 msgstr ""
+"<p class=\"description\">Personaliza pagina de error 404 predeterminada</p>"
 
 #: inc/nc-options/nc-options.php:1911
 msgid "Text To Display"
-msgstr ""
+msgstr "Texto para mostrar"
 
 #: inc/nc-options/nc-options.php:1935
 msgid "Custom CSS"
-msgstr ""
+msgstr "Personaliza el CSS"
 
 #: inc/nc-options/nc-options.php:1941
 msgid "Paste your css code."
-msgstr ""
+msgstr "pega tu código CSS"
 
 #: inc/nc-options/nc-options.php:1942
 msgid "Do not include tags or any html tag in this field<br />"
-msgstr ""
+msgstr "No incluye etiquetas o ninguna etiqueta HTML en este campo<br />"
 
 #: inc/nc-options/nc-options.php:1947
 msgid "CSS Code"
-msgstr ""
+msgstr "Código CSS"
 
 #: inc/nc-options/nc-options.php:1961
 msgid "Woocommerce"
-msgstr ""
+msgstr "<br />"
 
 #: inc/nc-options/nc-options.php:1967
 msgid "Shop title Show/Hide"
-msgstr ""
+msgstr "Mostrar/Ocultar título de compra"
 
 #: inc/nc-options/nc-options.php:1974
 msgid "Shop page title"
-msgstr ""
+msgstr "Título de página de compra"
 
 #: inc/nc-options/nc-options.php:1980
 msgid "Product page title Show/Hide"
-msgstr ""
+msgstr "Mostrar/Ocultar título de la página de productos"
 
 #: inc/nc-options/nc-options.php:1987
 msgid "Product page title"
-msgstr ""
+msgstr "Título de la página de productos"
 
 #: inc/nc-options/nc-options.php:1993
 msgid "Show/Hide Sidebar"
-msgstr ""
+msgstr "Mostrar/Ocultar Sidebar"
 
 #: inc/nc-options/nc-options.php:2020
 msgid "<strong>Theme URL:</strong> "
-msgstr ""
+msgstr "<strong>URL del tema:</strong> "
 
 #: inc/nc-options/nc-options.php:2021
 msgid "<strong>Author:</strong> "
-msgstr ""
+msgstr "<strong>Autor:</strong> "
 
 #: inc/nc-options/nc-options.php:2022
 msgid "<strong>Version:</strong> "
-msgstr ""
+msgstr "<strong>Versión:</strong> "
 
 #: inc/nc-options/nc-options.php:2024
 msgid "<strong>Tags:</strong> "
-msgstr ""
+msgstr "<strong>Etiquetas:</strong> "
 
 #: inc/nc-options/nc-options.php:2031
 msgid "Theme Information"
-msgstr ""
+msgstr "Información del tema"
 
 #: inc/nc-options/options/fields/color_gradient/field_color_gradient.php:35
 msgid "From:"
-msgstr ""
+msgstr "De:"
 
 #: inc/nc-options/options/fields/color_gradient/field_color_gradient.php:38
 msgid " To:"
-msgstr ""
+msgstr "Para:"
 
 #: inc/nc-options/options/fields/google_webfonts/field_google_webfonts.php:42
 msgid ""
@@ -2085,30 +2104,35 @@ msgid ""
 "\"_blank\">browse the directory</a> to preview a font, then select your "
 "choice below."
 msgstr ""
+"Las siguientes fuentes son libres de usar provenientes de <a href=\"http://"
+"www.google.com/webfonts\" target=\"_blank\">Google Web Fonts </a>.<br/>Por "
+"favor <a href=\"http://www.google.com/webfonts\" target=\"_blank\">basque en "
+"el directorio</a> para previsualizar la fuente, a continuación, selecciona "
+"tu elección."
 
 #: inc/nc-options/options/fields/multi_text/field_multi_text.php:39
 #: inc/nc-options/options/fields/multi_text/field_multi_text.php:46
 #: inc/nc-options/options/fields/multi_text/field_multi_text.php:50
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:206
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 #: inc/nc-options/options/fields/multi_text/field_multi_text.php:54
 msgid "Add More"
-msgstr ""
+msgstr "Agregar más"
 
 #: inc/nc-options/options/fields/upload/field_upload.php:39
 msgid "Browse"
-msgstr ""
+msgstr "Buscar"
 
 #: inc/nc-options/options/fields/upload/field_upload.php:40
 msgid "Remove Upload"
-msgstr ""
+msgstr "Remover carga"
 
 #: inc/nc-options/options/noptions.php:51
 #: inc/nc-options/options/noptions.php:53
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 #: inc/nc-options/options/noptions.php:65
 msgid ""
@@ -2116,85 +2140,92 @@ msgid ""
 "href=\"http://themeforest.net/user/WEBNUS/\" target=\"_blank\">Themeforest</"
 "a>  </span>"
 msgstr ""
+"<span id=\"footer-thankyou\">Arkev diseñador web. Visita mi sitio en <a href="
+"\"http://arkev.com\" target=\"_blank\">Arkev.com</a>  </span>"
 
 #: inc/nc-options/options/noptions.php:68
 msgid " "
-msgstr ""
+msgstr " "
 
 #: inc/nc-options/options/noptions.php:254
 #: inc/nc-options/options/noptions.php:255
 #: inc/nc-options/options/noptions.php:688
 msgid "Import / Export"
-msgstr ""
+msgstr "Importar/Exportar"
 
 #: inc/nc-options/options/noptions.php:281
 #: inc/nc-options/options/noptions.php:282
 #: inc/nc-options/options/noptions.php:707
 #: inc/nc-options/options/noptions.php:796
 msgid "Dev Mode Info"
-msgstr ""
+msgstr "Información del modo Dev"
 
 #: inc/nc-options/options/noptions.php:337
 msgid "Are you sure? Resetting will loose all custom values."
-msgstr ""
+msgstr "Estas seguro? la vas a cagar mejor ni le muevas"
 
 #: inc/nc-options/options/noptions.php:654
 #: inc/nc-options/options/noptions.php:821
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "Restablecer valores predeterminados"
 
 #: inc/nc-options/options/noptions.php:660
 msgid "<strong>Settings Imported!</strong>"
-msgstr ""
+msgstr "<strong>Ajustes importados</strong>"
 
 #: inc/nc-options/options/noptions.php:662
 msgid "<strong>Settings Saved!</strong>"
-msgstr ""
+msgstr "<strong>Ajustes guardados</strong>"
 
 #: inc/nc-options/options/noptions.php:666
 msgid "<strong>Settings have changed!, you should save them!</strong>"
 msgstr ""
+"<strong>Los ajustes fueron modificados!, creo que deberías guardar</strong>"
 
 #: inc/nc-options/options/noptions.php:667
 msgid "<strong><span></span> error(s) were found!</strong>"
-msgstr ""
+msgstr "<strong><span></span> errore(s) fueron encontrados!</strong>"
 
 #: inc/nc-options/options/noptions.php:669
 msgid "<strong><span></span> warning(s) were found!</strong>"
-msgstr ""
+msgstr "<strong><span></span> advertencias(s) encontradas!</strong>"
 
 #: inc/nc-options/options/noptions.php:725
 msgid "Import / Export Options"
-msgstr ""
+msgstr "Importar/Exportar opciones"
 
 #: inc/nc-options/options/noptions.php:727
 msgid "Import Options"
-msgstr ""
+msgstr "Opciones para importar"
 
 #: inc/nc-options/options/noptions.php:735
 msgid ""
 "Input your backup file below and hit Import to restore your sites options "
 "from a backup."
 msgstr ""
+"Ingresa tu archivo de respaldo y comienza la importación para restaurar las "
+"opciones de la copia de seguridad."
 
 #: inc/nc-options/options/noptions.php:748
 msgid "Select Template and hit Import to load the options."
-msgstr ""
+msgstr "Selecciona una plantilla y oprime importar para cargar las opciones."
 
 #: inc/nc-options/options/noptions.php:765
 #: inc/plugins/wordpress-importer/webnus-importer.php:30
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: inc/nc-options/options/noptions.php:765
 msgid ""
 "WARNING! This will overwrite any existing options, please proceed with "
 "caution!"
 msgstr ""
+"¡ADVERTENCIA! Esto sobrescribirá las opciones existentes, procede con "
+"precaución!"
 
 #: inc/nc-options/options/noptions.php:768
 msgid "Export Options"
-msgstr ""
+msgstr "Exportar opciones"
 
 #: inc/nc-options/options/noptions.php:770
 msgid ""
@@ -2204,73 +2235,85 @@ msgid ""
 "the handy option to copy the link to yours sites settings. Which you can "
 "then use to duplicate on another site"
 msgstr ""
+"Aquí puedes copiar / descargar tus temas de las opciones actuales. Halo "
+"regularmente, ya que se puede utilizar como una copia de seguridad si algo "
+"va mal o por si la cagas. O puedes lo puedes utilizar para restaurar la "
+"configuración de este sitio (o cualquier otro sitio). Usted también tiene la "
+"opción útil para copiar el enlace a la configuración. Que luego se puede "
+"utilizar para duplicar en otro sitio"
 
 #: inc/nc-options/options/validation/color/validation_color.php:15
 msgid "This field must be a valid color value."
-msgstr ""
+msgstr "Este campo debe ser un valor de color válido."
 
 #: inc/nc-options/options/validation/comma_numeric/validation_comma_numeric.php:15
 msgid ""
 "You must provide a comma seperated list of numerical values for this option."
 msgstr ""
+"Debes proporcionar una lista separada por comas de valores numéricos de esta "
+"opción"
 
 #: inc/nc-options/options/validation/date/validation_date.php:15
 msgid "This field must be a valid date."
-msgstr ""
+msgstr "Este campo debe ser una fecha válida."
 
 #: inc/nc-options/options/validation/email/validation_email.php:15
 msgid "You must provide a valid email for this option."
-msgstr ""
+msgstr "Debes de proveer un correo electrónico valido para esta opción"
 
 #: inc/nc-options/options/validation/no_html/validation_no_html.php:15
 msgid ""
 "You must not enter any HTML in this field, all HTML tags have been removed."
 msgstr ""
+"no debes de introducir HTML en este campo. se han eliminado todas las "
+"etiquetas HTML"
 
 #: inc/nc-options/options/validation/no_special_chars/validation_no_special_chars.php:15
 msgid ""
 "You must not enter any special characters in this field, all special "
 "characters have been removed."
 msgstr ""
+"No debes de introducir ningún carácter especial en este campo, se han "
+"eliminado todos los caracteres especiales."
 
 #: inc/nc-options/options/validation/numeric/validation_numeric.php:15
 msgid "You must provide a numerical value for this option."
-msgstr ""
+msgstr "Debes proveer valores numéricos para esta opción"
 
 #: inc/nc-options/options/validation/url/validation_url.php:15
 msgid "You must provide a valid URL for this option."
-msgstr ""
+msgstr "Debes proveer una URL valide para esta opción"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:333
 msgid "Install Required Plugins"
-msgstr ""
+msgstr "Instalar plugins obligatorios "
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:334
 msgid "Install Plugins"
-msgstr ""
+msgstr "Instalar plugins"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:335
 #, php-format
 msgid "Installing Plugin: %s"
-msgstr ""
+msgstr "Install Plugins: %s"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:336
 msgid "Something went wrong with the plugin API."
-msgstr ""
+msgstr "ohhh no!!! Algo salió mal con la API de los plugins."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:338
 #, php-format
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Este tema requiere del siguiente plugin %1$s."
+msgstr[1] "Este tema requiere de los siguientes plugins %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:343
 #, php-format
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Este tema recomienda el siguiente plugin %1$s."
+msgstr[1] "Este tema recomienda de los siguientes plugins %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:348
 #, php-format
@@ -2281,7 +2324,9 @@ msgid_plural ""
 "Sorry, but you do not have the correct permissions to install the %1$s "
 "plugins."
 msgstr[0] ""
+"jajaja perdón! pero tu no tienes permisos para instalar el plugin %1$s."
 msgstr[1] ""
+"jajaja perdón! pero tu no tienes permisos para instalar los plugins %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:353
 #, php-format
@@ -2292,14 +2337,18 @@ msgid_plural ""
 "The following plugins need to be updated to their latest version to ensure "
 "maximum compatibility with this theme: %1$s."
 msgstr[0] ""
+"El siguiente plugin necesita ser actualizado a una versión más actual para "
+"máxima compatibilidad con este tema: %1$s."
 msgstr[1] ""
+"Los siguientes plugins necesitan ser actualizados a una versión más actual "
+"para máxima compatibilidad con este tema: %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:358
 #, php-format
 msgid "There is an update available for: %1$s."
 msgid_plural "There are updates available for the following plugins: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins:  %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:363
 #, php-format
@@ -2309,21 +2358,26 @@ msgid_plural ""
 "Sorry, but you do not have the correct permissions to update the %1$s "
 "plugins."
 msgstr[0] ""
+"Buen intento! pero tu no tienes los permisos para andar actualizando plugins "
+"%1$s. "
 msgstr[1] ""
+"Buen intento! pero tu no tienes los permisos para andar actualizando plugins "
+"%1$s. "
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:368
 #, php-format
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "El siguiente plugin requerido está inactivo: %1$s."
+msgstr[1] "Los siguientes plugins requeridos están inactivos: %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:373
 #, php-format
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
-msgstr[0] ""
+msgstr[0] "El siguiente plugin recomendado está actualmente desactivado: %1$s."
 msgstr[1] ""
+"Los siguientes plugins recomendados están actualmente desactivados: %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:378
 #, php-format
@@ -2334,50 +2388,52 @@ msgid_plural ""
 "Sorry, but you do not have the correct permissions to activate the %1$s "
 "plugins."
 msgstr[0] ""
+"Perdón!!! pero tu no cuentas con permisos para activar el plugin  %1$s."
 msgstr[1] ""
+"Perdón!!! pero tu no cuentas con permisos para activar los plugins  %1$s."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:383
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Iniciando la instalación del plugin"
+msgstr[1] "Iniciando la instalación de los plugins"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:388
 msgid "Begin updating plugin"
 msgid_plural "Begin updating plugins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Iniciando la actualización del plugin"
+msgstr[1] "Iniciando la actualización de los plugins"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:393
 msgid "Begin activating plugin"
 msgid_plural "Begin activating plugins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Iniciando la activación del plugin"
+msgstr[1] "Iniciando la activación de los plugins"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:397
 msgid "Return to Required Plugins Installer"
-msgstr ""
+msgstr "Regreso a obligatorio al instalador de plugins"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:398
 msgid "Return to the dashboard"
-msgstr ""
+msgstr "Regresar al dashboard"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:399
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3034
 msgid "Plugin activated successfully."
-msgstr ""
+msgstr "Plugins activados con éxito."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:400
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2837
 msgid "The following plugin was activated successfully:"
 msgid_plural "The following plugins were activated successfully:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "El siguiente plugin ha sido activado satisfactoriamente:"
+msgstr[1] "Lo siguientes plugins han sido activados satisfactoriamente:"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:401
 #, php-format
 msgid "No action taken. Plugin %1$s was already active."
-msgstr ""
+msgstr "Ninguna acción tomada. El plugin %1$s ya estaba activo."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:402
 #, php-format
@@ -2385,42 +2441,47 @@ msgid ""
 "Plugin not activated. A higher version of %s is needed for this theme. "
 "Please update the plugin."
 msgstr ""
+"Plugin no activado. Se necessity uno version superior %s para este tema. Por "
+"favor actualiza el plugin."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:403
 #, php-format
 msgid "All plugins installed and activated successfully. %1$s"
-msgstr ""
+msgstr "Todos los plugins instalados y activados con éxito. %1$s"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:404
 msgid "Dismiss this notice"
-msgstr ""
+msgstr "Descartar esta noticia"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:405
 msgid "Please contact the administrator of this site for help."
-msgstr ""
+msgstr "Por favor contacta a Arkev para que te ayude"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:524
 msgid "This plugin needs to be updated to be compatible with your theme."
 msgstr ""
+"Este plugin necesita ser actualizado para que sea compatible con este tema"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:525
 msgid "Update Required"
-msgstr ""
+msgstr "Actualización requerida"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:639
 msgid "Set the parent_slug config variable instead."
-msgstr ""
+msgstr "Establecer la variable de configuración de parent_slug"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:833
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3443
 msgid "Return to the Dashboard"
-msgstr ""
+msgstr "Regresar al Dashboard"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:940
 msgid ""
 "The remote plugin package does not contain a folder with the desired slug "
 "and renaming did not work."
 msgstr ""
+"El paquete de plugin remoto no contiene una carpeta con el fragmento deseado "
+"y el cambio de nombre no funcionó."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:940
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:943
@@ -2428,120 +2489,125 @@ msgid ""
 "Please contact the plugin provider and ask them to package their plugin "
 "according to the WordPress guidelines."
 msgstr ""
+"Por favor contacta al que te pasó el plugin y pídele que se meta su plugin "
+"por el culo por que no funciona"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:943
 msgid ""
 "The remote plugin package consists of more than one file, but the files are "
 "not packaged in a folder."
 msgstr ""
+"El paquete de plugin remoto se compone de más de un archivo, pero los "
+"archivos deben de estar empaquetados correctamente dentro de una carpeta si "
+"no no funciona."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1121
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2833
 msgctxt "plugin A *and* plugin B"
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1886
 #, php-format
 msgctxt "%s = version number"
 msgid "TGMPA v%s"
-msgstr ""
+msgstr "TGMPA v%s"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2172
 msgid "Required"
-msgstr ""
+msgstr "Requerido"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2175
 msgid "Recommended"
-msgstr ""
+msgstr "Recomendado"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2191
 msgid "WordPress Repository"
-msgstr ""
+msgstr "Repositorio de Wordpress"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2194
 msgid "External Source"
-msgstr ""
+msgstr "Recurso externo"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2197
 msgid "Pre-Packaged"
-msgstr ""
+msgstr "Prepaquete"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2214
 msgid "Not Installed"
-msgstr ""
+msgstr "No instalado"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2218
 msgid "Installed But Not Activated"
-msgstr ""
+msgstr "Instalado pero sin activar"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2220
 msgid "Active"
-msgstr ""
+msgstr "Activo"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2226
 msgid "Required Update not Available"
-msgstr ""
+msgstr "Se requiere actualización no disponible"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2229
 msgid "Requires Update"
-msgstr ""
+msgstr "Se requiere actualización"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2232
 msgid "Update recommended"
-msgstr ""
+msgstr "Te recomiendo que actualices"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2240
 #, php-format
 msgctxt "%1$s = install status, %2$s = update status"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s, %2$s"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2285
 #, php-format
 msgctxt "plugins"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Todos<span class=\"count\">(%s)</span>"
+msgstr[1] "Todos<span class=\"count\">(%s)</span>"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2288
 #, php-format
 msgid "To Install <span class=\"count\">(%s)</span>"
 msgid_plural "To Install <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2291
 #, php-format
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización disponible <span class=\"count\">(%s)</span>"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2294
 #, php-format
 msgid "To Activate <span class=\"count\">(%s)</span>"
 msgid_plural "To Activate <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2376
 msgctxt "as in: \"version nr unknown\""
 msgid "unknown"
-msgstr ""
+msgstr "desconocido"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2384
 msgid "Installed version:"
-msgstr ""
+msgstr "Versión instalada:"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2392
 msgid "Minimum required version:"
-msgstr ""
+msgstr "Versión mínima requerida:"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2404
 msgid "Available version:"
-msgstr ""
+msgstr "Versión disponible:"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2427
 #, php-format
@@ -2549,14 +2615,16 @@ msgid ""
 "No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
 "Dashboard</a>"
 msgstr ""
+"No hay plugins para instalar, actualizar o activar. <a href=\"%1$s\"> vuelve "
+"al Dashboard</a>"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2441
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2442
 msgid "Source"
-msgstr ""
+msgstr "Fuente"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2443
 #: inc/visualcomposer/shortcodes/01-maxtitle.php:12
@@ -2576,200 +2644,212 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/50-tabs.php:23
 #: inc/visualcomposer/shortcodes/50-tabs.php:35
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2447
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2448
 msgid "Status"
-msgstr ""
+msgstr "Estatus"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2496
 #, php-format
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Install %2$s"
-msgstr ""
+msgstr "Instalar %2$s"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2500
 #, php-format
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Update %2$s"
-msgstr ""
+msgstr "Actualizar%2$s"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2505
 #, php-format
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Activate %2$s"
-msgstr ""
+msgstr "Activar %2$s"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2575
 msgid "Upgrade message from the plugin author:"
-msgstr ""
+msgstr "Actualizar mensaje del autor del plugin:"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2608
 msgid "Install"
-msgstr ""
+msgstr "Instalr"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2614
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2617
 msgid "Activate"
-msgstr ""
+msgstr "Activar"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2648
 msgid "No plugins were selected to be installed. No action taken."
 msgstr ""
+"Ningún plugin ha sido seleccionado para ser instalado. Ninguna acción tomada."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2650
 msgid "No plugins were selected to be updated. No action taken."
 msgstr ""
+"Ningún plugin ha sido seleccionado para ser actualizado. Ninguna acción "
+"tomada."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2686
 msgid "No plugins are available to be installed at this time."
-msgstr ""
+msgstr "No hay plugins disponibles para ser instalados en este momento."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2688
 msgid "No plugins are available to be updated at this time."
-msgstr ""
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2793
 msgid "No plugins were selected to be activated. No action taken."
 msgstr ""
+"Ningún plugin ha sido seleccionado para ser activado. Ninguna acción tomada."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2819
 msgid "No plugins are available to be activated at this time."
-msgstr ""
+msgstr "No hay plugins disponibles para ser activados en este momento."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3033
 msgid "Plugin activation failed."
-msgstr ""
+msgstr "Falló el plugin de activación."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3367
 #, php-format
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "Actualización de Plugin %1$s (%2$d/%3$d)"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3369
 #, php-format
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
-msgstr ""
+msgstr "Ocurrió un error durante la instalación %1$s: <strong>%2$s</strong>."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3370
 #, php-format
 msgid "The installation of %1$s failed."
-msgstr ""
+msgstr "La instalación de %1$s falló."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3374
 msgid ""
 "The installation and activation process is starting. This process may take a "
 "while on some hosts, so please be patient."
 msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar varios minutos en algunos host, así que por favor ve por un café y "
+"regresa para ver si ya se instaló."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3375
 #, php-format
 msgid "%1$s installed and activated successfully."
-msgstr ""
+msgstr "%1$s instalado y activado correctamente."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3375
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3381
 msgid "Show Details"
-msgstr ""
+msgstr "Mostrar detalles"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3375
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3381
 msgid "Hide Details"
-msgstr ""
+msgstr "Ocultar detalles"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3376
 msgid "All installations and activations have been completed."
-msgstr ""
+msgstr "Todas las instalaciones y activaciones se han completado."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3377
 #, php-format
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "Instalación y activación de Plugin %1$s (%2$d/%3$d)"
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3380
 msgid ""
 "The installation process is starting. This process may take a while on some "
 "hosts, so please be patient."
 msgstr ""
+"El proceso de instalación se está iniciando. Este proceso puede tardar "
+"varios minutos en algunos host, así que por favor ve por un café y regresa "
+"para ver si ya se instaló."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3381
 #, php-format
 msgid "%1$s installed successfully."
-msgstr ""
+msgstr "%1$s instalado con éxito."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3382
 msgid "All installations have been completed."
-msgstr ""
+msgstr "Todas las instalaciones se han completado."
 
 #: inc/plugins/plugin-activator/class-tgm-plugin-activation.php:3383
 #, php-format
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "Instalación de plugin %1$s (%2$d/%3$d)"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:79
 #, php-format
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s (Invalido)"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:83
 #, php-format
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s (Pendiente)"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:107
 msgid "Move up"
-msgstr ""
+msgstr "Mover arriba"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:120
 msgid "Move down"
-msgstr ""
+msgstr "Mover abajo"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:122
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:124
 msgid "Edit Menu Item"
-msgstr ""
+msgstr "Editar elemento de menú"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:133
 #: inc/visualcomposer/shortcodes/05-button.php:31
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:140
 msgid "Navigation Label"
-msgstr ""
+msgstr "etiqueta de navegación"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:146
 msgid "Title Attribute"
-msgstr ""
+msgstr "Atributo de título"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:153
 msgid "Open link in a new window/tab"
-msgstr ""
+msgstr "Abrir ventana en una nueva pestaña"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:158
 msgid "CSS Classes (optional)"
-msgstr ""
+msgstr "Clases CSS (Opcional)"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:164
 msgid "Link Relationship (XFN)"
-msgstr ""
+msgstr "Relación de enlace (XFN)"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:170
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:172
 msgid ""
 "The description will be displayed in the menu if the current theme supports "
 "it."
 msgstr ""
+"La descripción se mostrará en el menú si el tema actual es compatible con "
+"ella."
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:180
 #: inc/visualcomposer/shortcodes/05-button.php:95
@@ -2782,28 +2862,30 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/31-ourclients.php:35
 #: inc/visualcomposer/shortcodes/50-tabs.php:14
 msgid "Icon"
-msgstr ""
+msgstr "ícono"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:193
 #, php-format
 msgid "Original: %s"
-msgstr ""
+msgstr "Original: %s"
 
 #: inc/plugins/sweet-custom-menu/edit_custom_walker.php:207
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: inc/plugins/wordpress-importer/parsers.php:44
 #: inc/plugins/wordpress-importer/parsers.php:75
 #: inc/plugins/wordpress-importer/parsers.php:83
 msgid "There was an error when reading this WXR file"
-msgstr ""
+msgstr "Se ha producido un error al leer el archivo WXR"
 
 #: inc/plugins/wordpress-importer/parsers.php:45
 msgid ""
 "Details are shown above. The importer will now try again with a different "
 "parser..."
 msgstr ""
+"Los detalles se muestran más arriba. El importador tratará ahora de nuevo "
+"con un analizador diferente..."
 
 #: inc/plugins/wordpress-importer/parsers.php:87
 #: inc/plugins/wordpress-importer/parsers.php:92
@@ -2811,42 +2893,48 @@ msgstr ""
 #: inc/plugins/wordpress-importer/parsers.php:475
 msgid ""
 "This does not appear to be a WXR file, missing/invalid WXR version number"
-msgstr ""
+msgstr "Esto no parece ser un archivo WXR, número de versión WXR no válido"
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:45
 msgid "Import attachments"
-msgstr ""
+msgstr "Importar adjuntos"
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:52
 msgid "Import Widgets"
-msgstr ""
+msgstr "Importar Widgets"
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:59
 msgid "Import Menu Setting"
-msgstr ""
+msgstr "Importar ajustes de menú"
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:66
 msgid "Import Reading Settings"
-msgstr ""
+msgstr "Importar ajustes de lectura"
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:79
 msgid "The import process may take some time. Please be patient."
 msgstr ""
+"El proceso de importación puede tardar algún tiempo. Por favor ve por un "
+"café y regresa en un rato"
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:89
 msgid "Important notes:"
-msgstr ""
+msgstr "Notas importantes:"
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:90
 msgid ""
 "Please note that import process will take time needed to download all "
 "attachments from demo web site."
 msgstr ""
+"Ten en cuenta que el proceso de importación tomará un tiempo necesario para "
+"descargar todos los archivos adjuntos desde el sitio web de demostración."
 
 #: inc/plugins/wordpress-importer/webnus-importer.php:91
 msgid ""
 "If you plan to use shop, please install WooCommerce before you run import."
 msgstr ""
+"Si va a utilizar la tienda, por favor, instala WooCommerce antes de ejecutar "
+"la importación."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:135
 #: inc/plugins/wordpress-importer/wordpress-importer.php:144
@@ -2854,23 +2942,23 @@ msgstr ""
 #: inc/plugins/wordpress-importer/wordpress-importer.php:199
 #: inc/plugins/wordpress-importer/wordpress-importer.php:208
 msgid "Sorry, there has been an error."
-msgstr ""
+msgstr "Oops, ocurre un error."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:136
 msgid "The file does not exist, please try again."
-msgstr ""
+msgstr "El archivo no existe, por favor vuelve a intentarlo"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:179
 msgid "All done."
-msgstr ""
+msgstr "Todo listo!"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:179
 msgid "Have fun!"
-msgstr ""
+msgstr "¡Que te diviertas!"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:180
 msgid "Remember to update the passwords and roles of imported users."
-msgstr ""
+msgstr "Recuerda actualizar contraseñas y roles al importar usuarios."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:200
 #, php-format
@@ -2878,6 +2966,8 @@ msgid ""
 "The export file could not be found at <code>%s</code>. It is likely that "
 "this was caused by a permissions problem."
 msgstr ""
+"El archivo de exportación no se pudo encontrar a <code>%s</code>. Es "
+"probable que esto fue causado por un problema de permisos."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:216
 #, php-format
@@ -2885,6 +2975,8 @@ msgid ""
 "This WXR file (version %s) may not be supported by this version of the "
 "importer. Please consider updating."
 msgstr ""
+"Este archivo WXR (version %s) no puede ser compatible con esta versión del "
+"importador. Por favor considera actualizar."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:241
 #, php-format
@@ -2892,10 +2984,12 @@ msgid ""
 "Failed to import author %s. Their posts will be attributed to the current "
 "user."
 msgstr ""
+"No se pudo importar el autor %s. Sus entradas sean atribuidas al usuario "
+"actual."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:267
 msgid "Assign Authors"
-msgstr ""
+msgstr "Asignar autores"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:268
 msgid ""
@@ -2904,6 +2998,10 @@ msgid ""
 "site. For example, you may want to import all the entries as <code>admin</"
 "code>s entries."
 msgstr ""
+"Asignar para hacer más fácil para que puedas editar y guardar el contenido "
+"importado, es posible que desees asignar el autor del artículo importado a "
+"un usuario existente de este sitio. Por ejemplo, es posible que desees "
+"importar todas las entradas como <code>administrador</code>."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:270
 #, php-format
@@ -2912,42 +3010,45 @@ msgid ""
 "generated and the new user&#8217;s role will be set as %s. Manually changing "
 "the new user&#8217;s details will be necessary."
 msgstr ""
+"Si un nuevo usuario se crea con WordPress, se generará una nueva contraseña  "
+"aleatoriamente y el papel del nuevo usuario se establecerá como %s. Será "
+"necesario cambiar manualmente los detalles del nuevo usuario."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:280
 msgid "Import Attachments"
-msgstr ""
+msgstr "Importar adjuntos"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:283
 msgid "Download and import file attachments"
-msgstr ""
+msgstr "Descargando e importando archivo de adjuntos"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:287
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:300
 msgid "Import author:"
-msgstr ""
+msgstr "Importar autor:"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:311
 msgid "or create new user with login name:"
-msgstr ""
+msgstr "o crea un nuevo usuario con nombre el nombre de inicio de sesión:"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:314
 msgid "as a new user:"
-msgstr ""
+msgstr "como nuevo usuario:"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:322
 msgid "assign posts to an existing user:"
-msgstr ""
+msgstr "asignar entradas a un usuario existente:"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:324
 msgid "or assign posts to an existing user:"
-msgstr ""
+msgstr "o asigna entradas a un usuario existente:"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:325
 msgid "- Select -"
-msgstr ""
+msgstr "- Selecionar -"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:375
 #, php-format
@@ -2955,80 +3056,82 @@ msgid ""
 "Failed to create new user for %s. Their posts will be attributed to the "
 "current user."
 msgstr ""
+"No se pudo crear nuevo usuario para %s. Las entradas serán atribuidas al "
+"usuario actual."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:426
 #, php-format
 msgid "Failed to import category %s"
-msgstr ""
+msgstr "No se pudo importar la categoría %s"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:466
 #, php-format
 msgid "Failed to import post tag %s"
-msgstr ""
+msgstr "No se pudo importar las etiquetas %s"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:512
 #: inc/plugins/wordpress-importer/wordpress-importer.php:653
 #, php-format
 msgid "Failed to import %s %s"
-msgstr ""
+msgstr "No se pudo importar %s %s"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:538
 #, php-format
 msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
-msgstr ""
+msgstr "No se pudo importar &#8220;%s&#8221;: Tipo de entrada invalida %s"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:560
 #, php-format
 msgid "%s &#8220;%s&#8221; already exists."
-msgstr ""
+msgstr "%s &#8220;%s&#8221; already exists."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:619
 #, php-format
 msgid "Failed to import %s &#8220;%s&#8221;"
-msgstr ""
+msgstr "Falló la importación %s &#8220;%s&#8221;"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:784
 msgid "Menu item skipped due to missing menu slug"
-msgstr ""
+msgstr "Elemento de menú son saltados debido a la falta de menú fijo"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:791
 #, php-format
 msgid "Menu item skipped due to invalid menu slug: %s"
-msgstr ""
+msgstr "Elemento de menú son saltados debido a la falta de menú fijo: %s"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:854
 msgid "Fetching attachments is not enabled"
-msgstr ""
+msgstr "No está habilitada la captación de adjuntos"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:867
 msgid "Invalid file type"
-msgstr ""
+msgstr "Tipo de archivo invalido"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:911
 msgid "Remote server did not respond"
-msgstr ""
+msgstr "El servidor remoto no responde"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:917
 #, php-format
 msgid "Remote server returned error response %1$d %2$s"
-msgstr ""
+msgstr "El servidor remoto respondió con los siguientes respuestas %1$d %2$s"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:924
 msgid "Remote file is incorrect size"
-msgstr ""
+msgstr "El archivo remoto tiene un peso incorrecto"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:929
 msgid "Zero size file downloaded"
-msgstr ""
+msgstr "El archivo descargado pesa cero"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:935
 #, php-format
 msgid "Remote file is too large, limit is %s"
-msgstr ""
+msgstr "El archivo remoto es muy pesado, limit is %s"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:1033
 msgid "Import WordPress"
-msgstr ""
+msgstr "Importar Wordpress"
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:1040
 #, php-format
@@ -3036,6 +3139,9 @@ msgid ""
 "A new version of this importer is available. Please update to version %s to "
 "ensure compatibility with newer export files."
 msgstr ""
+"Una nueva versión de este importador está disponible. Por favor, actualice a "
+"la versión %s para asegurar la compatibilidad con los archivos de "
+"exportación más nuevos."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:1055
 msgid ""
@@ -3043,194 +3149,204 @@ msgid ""
 "the posts, pages, comments, custom fields, categories, and tags into this "
 "site."
 msgstr ""
+"¡Hola! Sube tu WordPress eXtended archivo RSS (WXR) y vamos a importar los "
+"mensajes, páginas, comentarios, campos personalizados, categorías y "
+"etiquetas en este sitio."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:1056
 msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
 msgstr ""
+"Elija un archivo WXR (.xml) para cargar, cuando haga clic en Cargar archivo "
+"e importar."
 
 #: inc/plugins/wordpress-importer/wordpress-importer.php:1132
 msgid ""
 "Import <strong>posts, pages, comments, custom fields, categories, and tags</"
 "strong> from a WordPress export file."
 msgstr ""
+"Importar <strong>entradas, páginas, comentarios, campos personalizados, "
+"categorías y etiquetas</strong> de un archivo de exportación de WordPress."
 
 #: inc/shortcodes/categorybox.php:64 inc/shortcodes/categorybox.php:99
 #: inc/shortcodes/latest-from-blog.php:50 parts/blogloop-bothsidebar.php:166
 #: parts/blogloop-search.php:21 parts/blogloop-type2.php:160
 #: parts/blogloop.php:148 portfolio-timeline.php:64 single.php:189
 msgid "by"
-msgstr ""
+msgstr "por"
 
 #: inc/shortcodes/contactform.php:130
 msgid "Message"
-msgstr ""
+msgstr "Mensaje"
 
 #: inc/shortcodes/contactform.php:144 inc/widgets/contactform.php:122
 msgid "Send Your Message"
-msgstr ""
+msgstr "Enviar tu mensaje"
 
 #: inc/shortcodes/countdown.php:18
 msgid "DAYS"
-msgstr ""
+msgstr "DÍAS"
 
 #: inc/shortcodes/countdown.php:19
 msgid "HRS"
-msgstr ""
+msgstr "Horas"
 
 #: inc/shortcodes/countdown.php:20
 msgid "MIN"
-msgstr ""
+msgstr "MINUTOS"
 
 #: inc/shortcodes/countdown.php:21
 msgid "SEC"
-msgstr ""
+msgstr "SEGUNDOS"
 
 #: inc/shortcodes/countdown.php:25
 msgid "Days"
-msgstr ""
+msgstr "Días"
 
 #: inc/shortcodes/countdown.php:26
 msgid "Hours"
-msgstr ""
+msgstr "Horas"
 
 #: inc/shortcodes/countdown.php:27
 msgid "Minutes"
-msgstr ""
+msgstr "Minutos"
 
 #: inc/shortcodes/countdown.php:28
 msgid "Seconds"
-msgstr ""
+msgstr "Segundos"
 
 #: inc/shortcodes/latest-from-blog.php:37
 msgid "By"
-msgstr ""
+msgstr "Por"
 
 #: inc/shortcodes/latest-from-blog.php:68
 msgid "Written by"
-msgstr ""
+msgstr "Escrito por"
 
 #: inc/shortcodes/recent-works.php:35 portfolio.php:32
 #: vc_templates/vc_teaser_grid.php:321
 msgid "All"
-msgstr ""
+msgstr "Todo"
 
 #: inc/shortcodes/related-works.php:5
 msgid "Related Works"
-msgstr ""
+msgstr "Trabajos relacionado"
 
 #: inc/sidebars/general-sidebars.php:12
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Sidebar izquierdo"
 
 #: inc/sidebars/general-sidebars.php:14
 msgid "Appears in left side in the blog page."
-msgstr ""
+msgstr "Aparece en el lado izquierdo de la página del blog"
 
 #: inc/sidebars/general-sidebars.php:22
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Sidebar derecho"
 
 #: inc/sidebars/general-sidebars.php:24
 msgid "Appears in right side in the blog page."
-msgstr ""
+msgstr "Aparece en el lado derecho de la página del blog"
 
 #: inc/sidebars/general-sidebars.php:39
 msgid "Toggle Top Area Section 1"
-msgstr ""
+msgstr "Sección Alternar superior de la sección 1"
 
 #: inc/sidebars/general-sidebars.php:41
 msgid "Appears in top area section 1"
-msgstr ""
+msgstr "Aparece en el área superior de la sección 1"
 
 #: inc/sidebars/general-sidebars.php:49
 msgid "Toggle Top Area Section 2"
-msgstr ""
+msgstr "Sección Alternar superior de la sección 2"
 
 #: inc/sidebars/general-sidebars.php:51
 msgid "Appears in top area section 2"
-msgstr ""
+msgstr "Aparece en el área superior de la sección 2"
 
 #: inc/sidebars/general-sidebars.php:59
 msgid "Toggle Top Area Section 3"
-msgstr ""
+msgstr "Sección Alternar superior de la sección 3"
 
 #: inc/sidebars/general-sidebars.php:61
 msgid "Appears in top area section 3"
-msgstr ""
+msgstr "Aparece en el área superior de la sección 3"
 
 #: inc/sidebars/general-sidebars.php:69
 msgid "Toggle Top Area Section 4"
-msgstr ""
+msgstr "Sección Alternar superior de la sección 4"
 
 #: inc/sidebars/general-sidebars.php:71
 msgid "Appears in top area section 4"
-msgstr ""
+msgstr "Aparece en el área superior de la sección 4"
 
 #: inc/sidebars/general-sidebars.php:80
 msgid "Footer Section 1"
-msgstr ""
+msgstr "Footer sección 1"
 
 #: inc/sidebars/general-sidebars.php:82
 msgid "Appears in footer section 1"
-msgstr ""
+msgstr "Aparece en la sección 1 del Footer"
 
 #: inc/sidebars/general-sidebars.php:90
 msgid "Footer Section 2"
-msgstr ""
+msgstr "Footer sección 2"
 
 #: inc/sidebars/general-sidebars.php:92
 msgid "Appears in footer section 2"
-msgstr ""
+msgstr "Aparece en la sección 2 del Footer"
 
 #: inc/sidebars/general-sidebars.php:101
 msgid "Footer Section 3"
-msgstr ""
+msgstr "Footer sección 3"
 
 #: inc/sidebars/general-sidebars.php:103
 msgid "Appears in footer section 3"
-msgstr ""
+msgstr "Aparece en la sección 3 del Footer"
 
 #: inc/sidebars/general-sidebars.php:111
 msgid "Footer Section 4"
-msgstr ""
+msgstr "Footer sección 4"
 
 #: inc/sidebars/general-sidebars.php:113
 msgid "Appears in footer section 4"
-msgstr ""
+msgstr "Aparece en la sección 4 del Footer"
 
 #: inc/sidebars/general-sidebars.php:123
 msgid "WooCommerce Page Sidebar"
-msgstr ""
+msgstr "Sidebar de página de WooCommerce"
 
 #: inc/sidebars/general-sidebars.php:125
 msgid "Product page widget area"
-msgstr ""
+msgstr "Área del widget de la página de producto"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:14
 msgid "Link to post"
-msgstr ""
+msgstr "Enlace de esta entrada"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:15
 msgid "No link"
-msgstr ""
+msgstr "Sin enlace"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:16
 msgid "Link to bigger image"
-msgstr ""
+msgstr "Enlazar una imagen más grande"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:22
 msgid "Teaser layout"
-msgstr ""
+msgstr "Disposición Teaser"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:24
 msgid ""
 "Control teasers look. Enable blocks and place them in desired order. Note: "
 "This setting can be overrriden on post to post basis."
 msgstr ""
+"Mirar el control de teasers. Habilitar bloques y colocarlos en el orden "
+"deseado. Nota: Este ajuste puede ser superpuesto sobre una entrada a otra "
+"entrada base."
 
 #: inc/visualcomposer/setup/setup_postgrid.php:27
 msgid "Thumbnail"
-msgstr ""
+msgstr "Miniatura"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:28
 #: inc/visualcomposer/setup/setup_row.php:268
@@ -3247,41 +3363,43 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:14
 #: inc/visualcomposer/shortcodes/53-pricing-tables.php:13
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:29
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:30
 msgid "Teaser/Excerpt"
-msgstr ""
+msgstr "Teaser/Extracto"
 
 #: inc/visualcomposer/setup/setup_postgrid.php:31
 msgid "Full content"
-msgstr ""
+msgstr "Todo el contenido"
 
 #: inc/visualcomposer/setup/setup_row.php:28
 msgid "Select Row Type"
-msgstr ""
+msgstr "Selecciona el tipo de fila"
 
 #: inc/visualcomposer/setup/setup_row.php:30
 msgid ""
 "Select row types available in theme, [row,blox,blox_dark,parallax,video "
 "background] are available"
 msgstr ""
+"Selecciona los tipos de fila disponibles del tema [fila,bloque,bloque "
+"obscuro,parallax,fondo de video] están disponible"
 
 #: inc/visualcomposer/setup/setup_row.php:37
 msgid "Row ID"
-msgstr ""
+msgstr "ID de la fila"
 
 #: inc/visualcomposer/setup/setup_row.php:39
 msgid "Enter the row ID"
-msgstr ""
+msgstr "Ingresa el ID de la fila"
 
 #: inc/visualcomposer/setup/setup_row.php:46
 msgid "Background Video Source"
-msgstr ""
+msgstr "Fuente del video de fondo"
 
 #: inc/visualcomposer/setup/setup_row.php:52
 msgid ""
@@ -3289,42 +3407,44 @@ msgid ""
 "type, for better experience you must upload MP4,WebM and OGG format "
 "altogether"
 msgstr ""
+"<strong style=\"color: red;\">!Importante:</strong> Cuando eliges tipo \"Host"
+"\", para una mejor experiencia debes cargar MP4, WebM y OGG en conjunto"
 
 #: inc/visualcomposer/setup/setup_row.php:59
 msgid "Youtube Video ID"
-msgstr ""
+msgstr "ID de video de Youtube"
 
 #: inc/visualcomposer/setup/setup_row.php:62
 msgid "Input your youtube video ID"
-msgstr ""
+msgstr "Ingrese su ID de vídeo de YouTube"
 
 #: inc/visualcomposer/setup/setup_row.php:69
 msgid ".MP4 Format"
-msgstr ""
+msgstr "Formato .MP4"
 
 #: inc/visualcomposer/setup/setup_row.php:72
 msgid "Compatibility for Safari and IE9"
-msgstr ""
+msgstr "Compatible con Safari y IE9 o superiores"
 
 #: inc/visualcomposer/setup/setup_row.php:79
 msgid ".WebM Format"
-msgstr ""
+msgstr "Formato .WebM"
 
 #: inc/visualcomposer/setup/setup_row.php:82
 msgid "Compatibility for Firefox4, Opera, and Chrome"
-msgstr ""
+msgstr "Compatible con firefox, Opera y Chrome"
 
 #: inc/visualcomposer/setup/setup_row.php:89
 msgid ".Ogg Format"
-msgstr ""
+msgstr "Formato .Ogg"
 
 #: inc/visualcomposer/setup/setup_row.php:92
 msgid "Compatibility for older Firefox and Opera versions"
-msgstr ""
+msgstr "Compatible con versiones viejas de firefox y Opera"
 
 #: inc/visualcomposer/setup/setup_row.php:99
 msgid "Background image"
-msgstr ""
+msgstr "Imagen de fondo"
 
 #: inc/visualcomposer/setup/setup_row.php:102
 msgid ""
@@ -3332,129 +3452,139 @@ msgid ""
 "supported or could not load on user's machine, the image will stay in "
 "background."
 msgstr ""
+"Esta imagen se mostrará hasta que se carge el vídeo. Si el vídeo no es "
+"compatible o no se pudo cargar en la máquina del usuario, la imagen "
+"permanecerá en el fondo."
 
 #: inc/visualcomposer/setup/setup_row.php:109
 #: inc/visualcomposer/shortcodes/09-googlemap.php:97
 msgid "Height"
-msgstr ""
+msgstr "Alto"
 
 #: inc/visualcomposer/setup/setup_row.php:111
 msgid "Select blox Height in number format Example: 380"
-msgstr ""
+msgstr "Selecciona en número el alto del bloque, por ejemplo: 380"
 
 #: inc/visualcomposer/setup/setup_row.php:122
 msgid "Select background image URL"
-msgstr ""
+msgstr "Selecciona la URL de la imagen de fondo"
 
 #: inc/visualcomposer/setup/setup_row.php:130
 msgid "Background Attachment"
-msgstr ""
+msgstr "Adjunto de fondo"
 
 #: inc/visualcomposer/setup/setup_row.php:132
 msgid "Select Background Attachment?"
-msgstr ""
+msgstr "Selecciona adjunto de fondo?"
 
 #: inc/visualcomposer/setup/setup_row.php:140
 msgid "Background Position"
-msgstr ""
+msgstr "Posición de fondo"
 
 #: inc/visualcomposer/setup/setup_row.php:142
 msgid ""
 "The background-position property sets the starting position of a background "
 "image."
 msgstr ""
+"La propiedad de posición de fondo ajusta la posición de partida una imagen "
+"de fondo."
 
 #: inc/visualcomposer/setup/setup_row.php:161
 msgid "Background Cover?"
-msgstr ""
+msgstr "Fondo de cubierta"
 
 #: inc/visualcomposer/setup/setup_row.php:163
 msgid "Blox has cover background?"
-msgstr ""
+msgstr "El bloque tiene cubierta de fondo?"
 
 #: inc/visualcomposer/setup/setup_row.php:171
 msgid "Background Repeat?"
-msgstr ""
+msgstr "Repetir fondo?"
 
 #: inc/visualcomposer/setup/setup_row.php:173
 msgid "Is Background image repeated?"
-msgstr ""
+msgstr "La imagen de fondo se repite?"
 
 #: inc/visualcomposer/setup/setup_row.php:181
 msgid "Align Center?"
-msgstr ""
+msgstr "Alinear al centro?"
 
 #: inc/visualcomposer/setup/setup_row.php:183
 msgid "Align center content"
-msgstr ""
+msgstr "Alinear contenido al centro?"
 
 #: inc/visualcomposer/setup/setup_row.php:184
 #: inc/visualcomposer/setup/setup_row.php:194
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:81
 #: inc/visualcomposer/shortcodes/53-pricing-tables.php:55
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: inc/visualcomposer/setup/setup_row.php:191
 msgid "Used as Page Title?"
-msgstr ""
+msgstr "Usar como título de página?"
 
 #: inc/visualcomposer/setup/setup_row.php:193
 msgid "Remove gap between header and this section"
-msgstr ""
+msgstr "Retire brecha entre el Header y esta sección"
 
 #: inc/visualcomposer/setup/setup_row.php:203
 msgid "Padding Top"
-msgstr ""
+msgstr "Padding de arriba"
 
 #: inc/visualcomposer/setup/setup_row.php:205
 msgid "Blox Top Padding in px format"
-msgstr ""
+msgstr "Padding de la parte de arriba del Bloque en formato px"
 
 #: inc/visualcomposer/setup/setup_row.php:213
 msgid "Padding Bottom"
-msgstr ""
+msgstr "Padding de abajo"
 
 #: inc/visualcomposer/setup/setup_row.php:215
 msgid "Blox Bottom Padding in px format"
-msgstr ""
+msgstr "Padding de la parte de abajo del Bloque en formato px"
 
 #: inc/visualcomposer/setup/setup_row.php:225
 msgid "Dark or Light?"
-msgstr ""
+msgstr "Obscuro o claro?"
 
 #: inc/visualcomposer/setup/setup_row.php:227
 msgid ""
 "If you choose Dark, Background Color goes dark and Text Color goes light<br/"
 ">If you choose Light, Background Color goes Light and Text Color goes dark"
 msgstr ""
+"Si eliges oscuro, el color del texto va a ser claro<br/>If you choose claro, "
+"Bel color del texto va a ser obscuro"
 
 #: inc/visualcomposer/setup/setup_row.php:235
 #: inc/visualcomposer/shortcodes/12-videoplay.php:37
 msgid "Extra Class"
-msgstr ""
+msgstr "Clase CSS extra"
 
 #: inc/visualcomposer/setup/setup_row.php:237
 msgid ""
 "Predefined colors are greenbox,redbox,bluebox,yellowbox,gray. To use custom "
 "color please use below Cutom Background Color"
 msgstr ""
+"Colores predefinidos son Verde, Rojo, Azul, cuadro amarillo, gris. Para "
+"utilizar color personalizado por favor utilízalo después de color de fondo "
+"personalizado"
 
 #: inc/visualcomposer/setup/setup_row.php:250
 msgid "Select Custom Background color"
-msgstr ""
+msgstr "Selecciona un color de fondo personalizado"
 
 #: inc/visualcomposer/setup/setup_row.php:258
 msgid "Speed(Parallax)"
-msgstr ""
+msgstr "Velocidad (Parallax)"
 
 #: inc/visualcomposer/setup/setup_row.php:260
 msgid "Select Parallax scroll speed in number format Example: 6"
-msgstr ""
+msgstr "Selecciona la velocidad del Parallax en formato número, ejemplo: 6"
 
 #: inc/visualcomposer/setup/setup_row.php:271
 msgid "ProcessBox Title"
-msgstr ""
+msgstr "Título de ProcessBox"
 
 #: inc/visualcomposer/setup/setup_row.php:278
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:77
@@ -3463,107 +3593,107 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/30-testimonial.php:28
 #: inc/visualcomposer/shortcodes/31-ourclients.php:59
 msgid "Subtitle"
-msgstr ""
+msgstr "Subtítulo"
 
 #: inc/visualcomposer/setup/setup_row.php:281
 msgid "ProcessBox Subtitle"
-msgstr ""
+msgstr "Subtítulo de ProcessBox"
 
 #: inc/visualcomposer/setup/setup_row.php:288
 msgid "Process Count"
-msgstr ""
+msgstr "Contador de procesos"
 
 #: inc/visualcomposer/setup/setup_row.php:291
 msgid "How many process items in process box?"
-msgstr ""
+msgstr "¿Cuántos elementos en proceso en caja de proceso?"
 
 #: inc/visualcomposer/setup/setup_row.php:298
 msgid "Top Icon"
-msgstr ""
+msgstr "Ícono de la parte superior"
 
 #: inc/visualcomposer/setup/setup_row.php:301
 msgid "Select ProcessBox Top Icon"
-msgstr ""
+msgstr "Selecciona el ícono de la parte superior de ProcessBox"
 
 #: inc/visualcomposer/setup/setup_row.php:308
 msgid "Pattern"
-msgstr ""
+msgstr "Patrón"
 
 #: inc/visualcomposer/setup/setup_row.php:311
 msgid "Display Foreground dotted Pattern"
-msgstr ""
+msgstr "Mostrar primer plano con puntos de patrón"
 
 #: inc/visualcomposer/setup/setup_row.php:322
 msgid "Overlay pattern"
-msgstr ""
+msgstr "Patrón de superposición"
 
 #: inc/visualcomposer/setup/setup_row.php:325
 msgid "Overlay Pattern for [blox,parallax]"
-msgstr ""
+msgstr "Patrón de superposición para [ploque,parallax]"
 
 #: inc/visualcomposer/setup/setup_row.php:332
 msgid "Overlay color"
-msgstr ""
+msgstr "Color de superposición"
 
 #: inc/visualcomposer/setup/setup_row.php:335
 msgid "Overlay Color  for [blox,parallax]"
-msgstr ""
+msgstr "Color de superposición para [bloque, parallax]"
 
 #: inc/visualcomposer/setup/setup_row.php:347
 msgid "Slide 1"
-msgstr ""
+msgstr "Diapositiva 1"
 
 #: inc/visualcomposer/setup/setup_row.php:349
 msgid "Select Slide 1 Image"
-msgstr ""
+msgstr "Selecciona una imagen para la diapositiva 1"
 
 #: inc/visualcomposer/setup/setup_row.php:356
 msgid "Slide 2"
-msgstr ""
+msgstr "Diapositiva 2"
 
 #: inc/visualcomposer/setup/setup_row.php:358
 msgid "Select Slide 2 Image"
-msgstr ""
+msgstr "Selecciona una imagen para la diapositiva 2"
 
 #: inc/visualcomposer/setup/setup_row.php:365
 msgid "Slide 3"
-msgstr ""
+msgstr "Diapositiva 3"
 
 #: inc/visualcomposer/setup/setup_row.php:367
 msgid "Select Slide 3 Image"
-msgstr ""
+msgstr "Selecciona una imagen para la diapositiva 3"
 
 #: inc/visualcomposer/setup/setup_row.php:374
 msgid "Slide 4"
-msgstr ""
+msgstr "Diapositiva 4"
 
 #: inc/visualcomposer/setup/setup_row.php:376
 msgid "Select Slide 4 Image"
-msgstr ""
+msgstr "Selecciona una imagen para la diapositiva 4"
 
 #: inc/visualcomposer/setup/setup_row.php:383
 msgid "Slide 5"
-msgstr ""
+msgstr "Diapositiva 5"
 
 #: inc/visualcomposer/setup/setup_row.php:385
 msgid "Select Slide 5 Image"
-msgstr ""
+msgstr "Selecciona una imagen para la diapositiva 5"
 
 #: inc/visualcomposer/setup/setup_row.php:392
 msgid "Parallax Images"
-msgstr ""
+msgstr "Imágenes para parallax"
 
 #: inc/visualcomposer/setup/setup_row.php:395
 msgid "Parallax images for maxslider"
-msgstr ""
+msgstr "Imágenes para parallax para maxslider"
 
 #: inc/visualcomposer/setup/setup_row.php:402
 msgid "Pattern Images"
-msgstr ""
+msgstr "Patrón de imágenes"
 
 #: inc/visualcomposer/setup/setup_row.php:405
 msgid "Pattern images for maxslider"
-msgstr ""
+msgstr "Patrón de imágenes para maxslider"
 
 #: inc/visualcomposer/shortcodes/01-maxtitle.php:7
 #: inc/visualcomposer/shortcodes/04-ourteam.php:164
@@ -3614,32 +3744,32 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/52-tooltip.php:7
 #: inc/visualcomposer/shortcodes/53-pricing-tables.php:8
 msgid "Webnus Shortcodes"
-msgstr ""
+msgstr "códigos cortos"
 
 #: inc/visualcomposer/shortcodes/01-maxtitle.php:22
 msgid "Title Type"
-msgstr ""
+msgstr "Título Tipo"
 
 #: inc/visualcomposer/shortcodes/01-maxtitle.php:29
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:46
 msgid "Enter the title"
-msgstr ""
+msgstr "Ingresa un título"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:13
 msgid "Team Image"
-msgstr ""
+msgstr "Equipo de imagen"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:16
 msgid "Team member image"
-msgstr ""
+msgstr "iMAGEN DEL MIEMBRO DEL EQUIPO"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:20
 msgid "Team Memeber Name"
-msgstr ""
+msgstr "Nombre del miembro del equipowa"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:23
 msgid "Team member name"
-msgstr ""
+msgstr "Nombre del miembro del equipo"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:27
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:58
@@ -3649,90 +3779,90 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:28
 #: inc/visualcomposer/shortcodes/53-pricing-tables.php:45
 msgid "Link URL"
-msgstr ""
+msgstr "URL"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:30
 msgid "Team member link url"
-msgstr ""
+msgstr "URL del miembro del equipo"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:34
 msgid "Team Memeber Title"
-msgstr ""
+msgstr "Título del miembro del equipo"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:37
 msgid "Team member title"
-msgstr ""
+msgstr "Título del miembro del equipo"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:41
 msgid "Team Memeber Description Text"
-msgstr ""
+msgstr "Descripción del miembro del equipo"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:44
 msgid "Team member description text"
-msgstr ""
+msgstr "Descripción del miembro del equipo"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:48
 msgid "First Social Name"
-msgstr ""
+msgstr "Primer nombre social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:63
 #: inc/visualcomposer/shortcodes/04-ourteam.php:92
 #: inc/visualcomposer/shortcodes/04-ourteam.php:121
 #: inc/visualcomposer/shortcodes/04-ourteam.php:149
 msgid "Select Social Name"
-msgstr ""
+msgstr "Selecciona nombre social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:68
 msgid "First Social URL"
-msgstr ""
+msgstr "Primer URL social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:71
 msgid "First social URL"
-msgstr ""
+msgstr "Primer URL social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:76
 msgid "Second Social Name"
-msgstr ""
+msgstr "Segundo nombre social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:97
 msgid "Second Social URL"
-msgstr ""
+msgstr "Segunda URL social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:100
 msgid "Second social URL"
-msgstr ""
+msgstr "Segunda URL social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:106
 msgid "Third Social Name"
-msgstr ""
+msgstr "Tercer nombre social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:126
 msgid "Third Social URL"
-msgstr ""
+msgstr "Tercer URL social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:129
 msgid "Third social URL"
-msgstr ""
+msgstr "Tercer URL social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:134
 msgid "Fourth Social Name"
-msgstr ""
+msgstr "Cuarto nombre social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:154
 msgid "Fourth Social URL"
-msgstr ""
+msgstr "Cuarta URL social"
 
 #: inc/visualcomposer/shortcodes/04-ourteam.php:157
 msgid "Fourth social URL"
-msgstr ""
+msgstr "Cuarta URL social"
 
 #: inc/visualcomposer/shortcodes/05-button.php:11
 msgid "Shape"
-msgstr ""
+msgstr "Forma"
 
 #: inc/visualcomposer/shortcodes/05-button.php:18
 msgid "Button Type"
-msgstr ""
+msgstr "Tipo de botón"
 
 #: inc/visualcomposer/shortcodes/05-button.php:23
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:84
@@ -3741,78 +3871,78 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/30-testimonial.php:35
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:56
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 #: inc/visualcomposer/shortcodes/05-button.php:26
 msgid "Button Text Content"
-msgstr ""
+msgstr "botón texto de contenido"
 
 #: inc/visualcomposer/shortcodes/05-button.php:34
 msgid "Button URL Link"
-msgstr ""
+msgstr "Botón de URL"
 
 #: inc/visualcomposer/shortcodes/05-button.php:39
 msgid "Target"
-msgstr ""
+msgstr "Objetivo"
 
 #: inc/visualcomposer/shortcodes/05-button.php:41
 msgid "Button URL Target"
-msgstr ""
+msgstr "Botón de URL de objetivo"
 
 #: inc/visualcomposer/shortcodes/05-button.php:52
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:50
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #: inc/visualcomposer/shortcodes/05-button.php:54
 msgid "Button Color"
-msgstr ""
+msgstr "Color del botón"
 
 #: inc/visualcomposer/shortcodes/05-button.php:75
 msgid "Size"
-msgstr ""
+msgstr "Medida"
 
 #: inc/visualcomposer/shortcodes/05-button.php:77
 msgid "Button Size"
-msgstr ""
+msgstr "Medida del botón"
 
 #: inc/visualcomposer/shortcodes/05-button.php:87
 msgid "Bordered?"
-msgstr ""
+msgstr "Borde?"
 
 #: inc/visualcomposer/shortcodes/05-button.php:90
 msgid "Is button bordered?"
-msgstr ""
+msgstr "El botón tiene borde?"
 
 #: inc/visualcomposer/shortcodes/05-button.php:98
 msgid "Select Button Icon"
-msgstr ""
+msgstr "Selecciona el ícono del botón"
 
 #: inc/visualcomposer/shortcodes/06-countdown.php:19
 msgid "Select Countdown Type"
-msgstr ""
+msgstr "Selecciona el tipo de cuenta regresiva"
 
 #: inc/visualcomposer/shortcodes/06-countdown.php:23
 msgid "Date and Time"
-msgstr ""
+msgstr "Fecha y hora"
 
 #: inc/visualcomposer/shortcodes/06-countdown.php:26
 msgid "Enter date and time (11October 2015 9:00)"
-msgstr ""
+msgstr "Ingresa fecha y hora (11 de Octubre 2015 9:00)"
 
 #: inc/visualcomposer/shortcodes/06-countdown.php:30
 #: inc/visualcomposer/shortcodes/06-countdown.php:33
 msgid "Finished text"
-msgstr ""
+msgstr "Texto terminado"
 
 #: inc/visualcomposer/shortcodes/07-distance.php:21
 msgid "Distance Type"
-msgstr ""
+msgstr "Tipo de distancia"
 
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:66
 #: inc/visualcomposer/shortcodes/30-testimonial.php:17
 msgid "Enter the Testimonial Name"
-msgstr ""
+msgstr "Ingresa el nombre del testimonio"
 
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:70
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:22
@@ -3820,85 +3950,91 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/30-testimonial.php:21
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:35
 msgid "Image"
-msgstr ""
+msgstr "Imagen"
 
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:73
 #: inc/visualcomposer/shortcodes/30-testimonial.php:24
 msgid "Testimonial Image"
-msgstr ""
+msgstr "Imagen del testimonio"
 
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:80
 #: inc/visualcomposer/shortcodes/30-testimonial.php:31
 msgid "Testimonial Subtitle"
-msgstr ""
+msgstr "Subtítulo del testimonio"
 
 #: inc/visualcomposer/shortcodes/08-testimonialitem.php:87
 #: inc/visualcomposer/shortcodes/30-testimonial.php:38
 msgid "Enter the Testimonial content text"
-msgstr ""
+msgstr "Ingresa el texto del testimonio"
 
 #: inc/visualcomposer/shortcodes/08-testimonialslider.php:56
 msgid "Select Image"
-msgstr ""
+msgstr "Selecciona una imagen"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:10
 msgid "Address (optional)"
-msgstr ""
+msgstr "Dirección (Opcional)"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:11
 msgid ""
 "Please enter your desired address to be show on the map unless you've used "
 "the Latitude and Longitude options.<br/><br/>"
 msgstr ""
+"Por favor, introduce la dirección que deseas que se muestre en el mapa, a "
+"menos que haya utilizado las opciones de latitud y longitud.<br/><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:16
 msgid "Latitude"
-msgstr ""
+msgstr "Latitud"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:17
 #: inc/visualcomposer/shortcodes/09-googlemap.php:23
 msgid "This option is not necessary if an address is set.<br/><br/>"
-msgstr ""
+msgstr "Esta opción no es necesaria si estableces una dirección.<br/><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:22
 msgid "Longitude"
-msgstr ""
+msgstr "Longitud"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:28
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:29
 msgid "Default map zoom level. (1-19)<br/><br/>"
-msgstr ""
+msgstr "Nivel del zoom del mapa predeterminado. (1-19)<br/><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:35
 msgid "Marker"
-msgstr ""
+msgstr "Marcador"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:36
 msgid "Enable an arrow pointing at the address.<br/><br/>"
-msgstr ""
+msgstr "Habilitar un marcador que indique la dirección.<br/><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:43
 msgid "Popup Marker Content"
-msgstr ""
+msgstr "El contenido emergente del marcador"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:44
 msgid "Content to be shown in a popup above the marker.<br/><br/>"
 msgstr ""
+"El contenido se muestra en una ventana emergente encima del marcador.<br/"
+"><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:49
 msgid "Popup Marker Display"
-msgstr ""
+msgstr "Indicador de la pantalla emergente"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:50
 msgid "Enable to open the popup above the marker by default.<br/><br/>"
 msgstr ""
+"Activar abrir la ventana flotante encima del marcador predeterminado<br/><br/"
+">"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:56
 msgid "Controls (optional)"
-msgstr ""
+msgstr "Controles (opcional)"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:57
 #, php-format
@@ -3907,156 +4043,161 @@ msgid ""
 "\"%s\" title=\"Google Maps API documentation\">API documentation</a> for "
 "details.<br/><br/>"
 msgstr ""
+"Esta opción es adecuada sólo para usuarios avanzados. Por favor si no le "
+"sabes ni le piques <a href=\"%s\" title=\"Documentación del API de Google "
+"Maps\">Documentación del API de Google Maps</a><br/><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:62
 msgid "Scrollwheel"
-msgstr ""
+msgstr "Rueda de desplazamiento"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:64
 #: inc/visualcomposer/shortcodes/09-googlemap.php:71
 msgid "<br/>"
-msgstr ""
+msgstr "<br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:69
 msgid "MapType"
-msgstr ""
+msgstr "Tipo de mapa"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:84
 msgid "Hue (optional)"
-msgstr ""
+msgstr "Hue (opcional)"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:86
 msgid "Defines the overall hue for the map.<br/><br/>"
-msgstr ""
+msgstr "Define el matiz general para el mapa.<br/><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:89
 msgid "Width (optional)"
-msgstr ""
+msgstr "Ancho (opcional)"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:90
 msgid "Set to 0 is the full width. (0-960)<br/><br/>"
-msgstr ""
+msgstr "Se pone a 0 es el ancho total. (0-960)<br/><br/>"
 
 #: inc/visualcomposer/shortcodes/09-googlemap.php:98
 msgid "Default is 400.<br/><br/>"
-msgstr ""
+msgstr "400 es el predeterminado.<br/><br/>"
 
 #: inc/visualcomposer/shortcodes/10-latestblogs.php:34
 #: inc/visualcomposer/shortcodes/17-masonry.php:12
 #: inc/visualcomposer/shortcodes/18-blog.php:22
 #: inc/visualcomposer/shortcodes/39-categorybox.php:23
 msgid "Category"
-msgstr ""
+msgstr "Categoría"
 
 #: inc/visualcomposer/shortcodes/10-latestblogs.php:37
 #: inc/visualcomposer/shortcodes/17-masonry.php:15
 #: inc/visualcomposer/shortcodes/18-blog.php:25
 msgid "Select specific category, leave blank to show all categories."
 msgstr ""
+"Selecciona la categoría específica, deja en blanco para mostrar todas las "
+"categorías."
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:18
 msgid "Twitter Type"
-msgstr ""
+msgstr "Tipo de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:23
 msgid "Twitter Image"
-msgstr ""
+msgstr "Imagen de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:26
 msgid "Twitter image"
-msgstr ""
+msgstr "Imagen de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:33
 msgid "Twitter title"
-msgstr ""
+msgstr "Título de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:37
 msgid "Twitter User Name"
-msgstr ""
+msgstr "Nombre de Usuario de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:40
 msgid "Twitter twitter id"
-msgstr ""
+msgstr "Id de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:44
 msgid "Feed Count"
-msgstr ""
+msgstr "Contador de entradas"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:47
 msgid "Twitter count"
-msgstr ""
+msgstr "Contador de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:51
 msgid "Access Token"
-msgstr ""
+msgstr "Acceso de Token"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:54
 msgid "Twitter access token"
-msgstr ""
+msgstr "Acceso de Token de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:58
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Token de acceso secreto"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:61
 msgid "Twitter access token secret"
-msgstr ""
+msgstr "Acceso de Token secreto de twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:65
 msgid "Consumer Key"
-msgstr ""
+msgstr "Clave de consumidor"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:68
 msgid "Twitter consumer key"
-msgstr ""
+msgstr "Clave de consumidor de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:72
 msgid "Consumer Secret"
-msgstr ""
+msgstr "Claves de consumidor"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:75
 msgid "Twitter consumer secret"
-msgstr ""
+msgstr "Claves secretas de consumidor de Twitter"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:79
 msgid "Mirror"
-msgstr ""
+msgstr "Espejo"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:82
 msgid "Flip content"
-msgstr ""
+msgstr "Contenido del flip"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:87
 msgid "Follow Text"
-msgstr ""
+msgstr "Texto de segir"
 
 #: inc/visualcomposer/shortcodes/11-twitterfeed.php:90
 msgid "Twitter follow text"
-msgstr ""
+msgstr "Texto de seguir de twitter"
 
 #: inc/visualcomposer/shortcodes/12-videoplay.php:13
 msgid "Video URL"
-msgstr ""
+msgstr "URL del video"
 
 #: inc/visualcomposer/shortcodes/12-videoplay.php:16
 msgid "YouTube/Vimeo URL"
-msgstr ""
+msgstr "YouTube/Vimeo URL"
 
 #: inc/visualcomposer/shortcodes/12-videoplay.php:21
 #: inc/visualcomposer/shortcodes/13-icon.php:14
 msgid "Icon Size"
-msgstr ""
+msgstr "Tamaño del ícono"
 
 #: inc/visualcomposer/shortcodes/12-videoplay.php:24
 msgid "Icon size in px format, Example: 80px"
-msgstr ""
+msgstr "Tamaño del ícono en pixeles, ejemplo: 80px"
 
 #: inc/visualcomposer/shortcodes/12-videoplay.php:29
 #: inc/visualcomposer/shortcodes/13-icon.php:22
 #: inc/visualcomposer/shortcodes/29-icondivider.php:14
 #: inc/visualcomposer/shortcodes/50-tabs.php:5
 msgid "Icon color"
-msgstr ""
+msgstr "Color del ícono"
 
 #: inc/visualcomposer/shortcodes/12-videoplay.php:32
 #: inc/visualcomposer/shortcodes/13-icon.php:25
@@ -4064,32 +4205,32 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/29-icondivider.php:17
 #: inc/visualcomposer/shortcodes/50-tabs.php:8
 msgid "Select icon color"
-msgstr ""
+msgstr "Selecciona el color del ícono"
 
 #: inc/visualcomposer/shortcodes/12-videoplay.php:40
 msgid "Extra Class "
-msgstr ""
+msgstr "Clases CSS extras"
 
 #: inc/visualcomposer/shortcodes/13-icon.php:17
 #: inc/visualcomposer/shortcodes/26-iconbox.php:107
 msgid "Icon size in px format, Example: 16px"
-msgstr ""
+msgstr "Tamaño del ícono en pixeles, ejemplo: 16px"
 
 #: inc/visualcomposer/shortcodes/13-icon.php:30
 msgid "Icon Link URL"
-msgstr ""
+msgstr "URL del ícono"
 
 #: inc/visualcomposer/shortcodes/13-icon.php:33
 msgid "Icon link URL http:// "
-msgstr ""
+msgstr "URL del ícono"
 
 #: inc/visualcomposer/shortcodes/13-icon.php:38
 msgid "Icon Link Class"
-msgstr ""
+msgstr "URL de la clase CSS del ícono"
 
 #: inc/visualcomposer/shortcodes/13-icon.php:41
 msgid "Icon link Class "
-msgstr ""
+msgstr "URL de la clase CSS del ícono"
 
 #: inc/visualcomposer/shortcodes/13-icon.php:50
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:83
@@ -4097,165 +4238,165 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/29-icondivider.php:34
 #: inc/visualcomposer/shortcodes/50-tabs.php:17
 msgid "Select Icon"
-msgstr ""
+msgstr "Selecciona un ícono"
 
 #: inc/visualcomposer/shortcodes/15-quote.php:17
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:54
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:17
 msgid "Enter the Title"
-msgstr ""
+msgstr "Ingresa el título"
 
 #: inc/visualcomposer/shortcodes/15-quote.php:24
 msgid "Enter the Name"
-msgstr ""
+msgstr "Ingresa el nombre"
 
 #: inc/visualcomposer/shortcodes/15-quote.php:28
 msgid "Name Subtitle"
-msgstr ""
+msgstr "Nombre del subtítulo"
 
 #: inc/visualcomposer/shortcodes/15-quote.php:31
 msgid "Enter the Name Subtitle"
-msgstr ""
+msgstr "Ingresa el nombre del subtítulo"
 
 #: inc/visualcomposer/shortcodes/15-quote.php:41
 msgid "Enter the Quote of the Week content text"
-msgstr ""
+msgstr "Ingresa la cita de la semana en el texto de contenido"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:18
 msgid "TeaserBox Type"
-msgstr ""
+msgstr "Tipo TeaserBox"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:25
 msgid "TeaserBox Image"
-msgstr ""
+msgstr "Imagen del TeaserBox"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:29
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:42
 msgid "Image alt"
-msgstr ""
+msgstr "Etiqueta alt de la imagen"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:32
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:45
 msgid "Enter the image alt Text"
-msgstr ""
+msgstr "Ingresa el texto de la etiqueta alt"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:39
 msgid "Enter the Subtitle"
-msgstr ""
+msgstr "Ingresa el subtítulo"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:43
 msgid "Subtitle background color"
-msgstr ""
+msgstr "Color de fondo del subtítulo "
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:46
 msgid "Select background color for subtitle"
-msgstr ""
+msgstr "Selecciona el color de fondo del subtítulo "
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:61
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:31
 msgid "Enter the link url Example: http://domain.com"
-msgstr ""
+msgstr "Ingresa la URL Ejemplo: http://midominio.com"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:65
 msgid "Description Text"
-msgstr ""
+msgstr "Texto de Descripción "
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:68
 msgid "Enter the description text"
-msgstr ""
+msgstr "Ingresa el Texto de Descripción"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:72
 msgid "Icon background color"
-msgstr ""
+msgstr "Color de Fondo del Ícono"
 
 #: inc/visualcomposer/shortcodes/16-teaserbox.php:75
 msgid "Select background color for icon"
-msgstr ""
+msgstr "Selecciona el Color del fondo para el ícono"
 
 #: inc/visualcomposer/shortcodes/17-masonry.php:19
 #: inc/visualcomposer/shortcodes/18-blog.php:29
 msgid "Post Count"
-msgstr ""
+msgstr "Contador de Entradas"
 
 #: inc/visualcomposer/shortcodes/17-masonry.php:22
 #: inc/visualcomposer/shortcodes/18-blog.php:32
 msgid "Number of post(s) to show"
-msgstr ""
+msgstr "Número de entrada (s) a mostrar"
 
 #: inc/visualcomposer/shortcodes/19-postfromblog.php:11
 msgid "Post ID"
-msgstr ""
+msgstr "ID de entrada"
 
 #: inc/visualcomposer/shortcodes/19-postfromblog.php:14
 msgid "type your post id"
-msgstr ""
+msgstr "Escribe el ID de entrada"
 
 #: inc/visualcomposer/shortcodes/22-bigtitle1.php:12
 #: inc/visualcomposer/shortcodes/23-bigtitle2.php:12
 msgid "BigTitle Content"
-msgstr ""
+msgstr "Contenido del Título Principal"
 
 #: inc/visualcomposer/shortcodes/22-bigtitle1.php:15
 #: inc/visualcomposer/shortcodes/23-bigtitle2.php:15
 msgid "Enter the Bigtitle content"
-msgstr ""
+msgstr "Ingresa el Título Principal"
 
 #: inc/visualcomposer/shortcodes/23-subtitle.php:12
 #: inc/visualcomposer/shortcodes/24-subtitle2.php:12
 #: inc/visualcomposer/shortcodes/24-subtitle2.php:33
 msgid "Subtitle Content"
-msgstr ""
+msgstr "Contenido del Subtítulo"
 
 #: inc/visualcomposer/shortcodes/23-subtitle.php:15
 #: inc/visualcomposer/shortcodes/24-subtitle2.php:15
 #: inc/visualcomposer/shortcodes/24-subtitle2.php:36
 msgid "Enter the Subtitle content"
-msgstr ""
+msgstr "Ingresa el contenido del subtítulo"
 
 #: inc/visualcomposer/shortcodes/25-list.php:12
 msgid "List Type"
-msgstr ""
+msgstr "Tipo de lista"
 
 #: inc/visualcomposer/shortcodes/25-list.php:27
 msgid "Select the List Items type"
-msgstr ""
+msgstr "Selecciona el tipo de lista"
 
 #: inc/visualcomposer/shortcodes/25-list.php:32
 msgid "Items"
-msgstr ""
+msgstr "Elementos"
 
 #: inc/visualcomposer/shortcodes/25-list.php:35
 msgid "Enter list items, you can use [li]SomeText[/li]"
-msgstr ""
+msgstr "Ingresa los elementos de la lista, puedes usar [li]Algún Texto[/li]"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:42
 #: inc/visualcomposer/shortcodes/40-contactform.php:15
 msgid "You can choose among these pre-designed types."
-msgstr ""
+msgstr "Puedes escoger entre estos tipos prediseñados "
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:49
 msgid "IconBox Title"
-msgstr ""
+msgstr "Título del IconBox"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:54
 msgid "Title color (leave bank for default color)"
-msgstr ""
+msgstr "Color del título (deje en blanco para el color predeterminado)"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:57
 msgid "Select title color"
-msgstr ""
+msgstr "Seleccione el color del título"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:65
 msgid "IconBox Content Goes Here"
-msgstr ""
+msgstr "El Contenido del IconBox va aquí "
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:70
 msgid "Content color (leave bank for default color)"
-msgstr ""
+msgstr "Color del contenido (deje en blanco para el color predeterminado)"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:73
 msgid "Select content color"
-msgstr ""
+msgstr "Seleccione el color del contenido"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:79
 #: inc/visualcomposer/shortcodes/34-link.php:20
@@ -4264,299 +4405,302 @@ msgstr ""
 #: inc/visualcomposer/shortcodes/53-pricing-tables.php:37
 #: inc/visualcomposer/shortcodes/53-pricing-tables.php:40
 msgid "Link Text"
-msgstr ""
+msgstr "Texto del Enlace"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:82
 msgid "IconBox Link Text"
-msgstr ""
+msgstr "Texto del enlace del IconBox"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:91
 msgid "IconBox Link URL (http://example.com)"
-msgstr ""
+msgstr "URL del enlace del IconBox (http://ejemplo.com)"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:96
 msgid "Link color (leave bank for default color)"
-msgstr ""
+msgstr "Color del enlace (deje en blanco para el color predeterminado)"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:99
 msgid "Select link color"
-msgstr ""
+msgstr "Seleccione el color del enlace"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:104
 msgid "Icon Size (leave blank for default size)"
-msgstr ""
+msgstr "Tamaño del ícono (deje en blanco para el tamaño predeterminado)"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:112
 msgid "Icon color (leave bank for default color)"
-msgstr ""
+msgstr "Color del Ícono (deje en blanco para el color predeterminado"
 
 #: inc/visualcomposer/shortcodes/26-iconbox.php:124
 msgid ""
 "Select Image instead of Icons.<br>Note: If you have another Icon that not is "
 "here. You can put PNG image of that instead of these Icons."
 msgstr ""
+"Seleccione una imagen en vez del ícono. <br> Nota: Si tienes algún otro "
+"ícono que no está aquí. Puedes agregarlo como imagen PNG en lugar de estos "
+"íconos."
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:18
 msgid "Select MaxCounter Type"
-msgstr ""
+msgstr "Seleccione el tipo de MaxCounter"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:22
 msgid "Count"
-msgstr ""
+msgstr "Contador"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:25
 msgid "Enter counter count"
-msgstr ""
+msgstr "Ingrese la cuenta del contador"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:29
 msgid "Prefix"
-msgstr ""
+msgstr "Prefijo"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:32
 msgid "Enter the prefix, $ for example"
-msgstr ""
+msgstr "Ingrese el prefijo, $ por ejemplo"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:36
 msgid "Suffix"
-msgstr ""
+msgstr "Sufijo"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:39
 #, php-format
 msgid "Enter the suffix, % for example"
-msgstr ""
+msgstr "Ingresa el sufijo, % for ejemplo"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:53
 msgid "Please select icon color"
-msgstr ""
+msgstr "Favor de seleccionar el color del ícono"
 
 #: inc/visualcomposer/shortcodes/27-maxcounter.php:60
 msgid "Please select counter icon"
-msgstr ""
+msgstr "Favor de seleccionar el contador del ícono"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:36
 msgid "RecentWorks Icon"
-msgstr ""
+msgstr "Ícono de trabajos recientes"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:43
 msgid "RecentWorks title"
-msgstr ""
+msgstr "Título de trabajos recientes"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:50
 msgid "Recent Works Subtitle"
-msgstr ""
+msgstr "Subtítulo de trabajos recientes"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:54
 msgid "Works Selection"
-msgstr ""
+msgstr "Selección de trabajos"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:57
 msgid "Select and filter From Works list."
-msgstr ""
+msgstr "Selecciona y filtra de tu lista de trabajos"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:62
 #: inc/visualcomposer/shortcodes/39-categorybox.php:44
 msgid "Posts count"
-msgstr ""
+msgstr "Contador de entradas"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:65
 msgid "Webnus portfolio"
-msgstr ""
+msgstr "Portafolio"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:69
 #: inc/visualcomposer/shortcodes/47-employee.php:35
 msgid "Columns"
-msgstr ""
+msgstr "Columnas"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:73
 msgid "Contact form type"
-msgstr ""
+msgstr "Tipo de Forma de Contacto"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:77
 msgid "Hide Filters"
-msgstr ""
+msgstr "Esconder Filtros"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:79
 msgid "Yes, plese"
-msgstr ""
+msgstr "Sí, por favor"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:80
 msgid "Hide categories"
-msgstr ""
+msgstr "Esconder categorías "
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:84
 msgid "Is full width?"
-msgstr ""
+msgstr "Es ancho completo?"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:86
 #: inc/visualcomposer/shortcodes/28-recentworks.php:93
 msgid "Yes, please"
-msgstr ""
+msgstr "Sí, por favor"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:87
 msgid "Portfolio layout(Full-width or Boxed)"
-msgstr ""
+msgstr "Acomodo del portafolio (ancho completo o encajonado)"
 
 #: inc/visualcomposer/shortcodes/28-recentworks.php:95
 msgid "Has space between columns?"
-msgstr ""
+msgstr "Tiene espacio entre columnas?"
 
 #: inc/visualcomposer/shortcodes/29-icondivider.php:22
 msgid "Border color"
-msgstr ""
+msgstr "Color del borde"
 
 #: inc/visualcomposer/shortcodes/29-icondivider.php:25
 msgid "Select border color"
-msgstr ""
+msgstr "Seleccione color del borde"
 
 #: inc/visualcomposer/shortcodes/31-ourclients.php:38
 msgid "OurClient Top Icon"
-msgstr ""
+msgstr "Ícono Superior de Clientes"
 
 #: inc/visualcomposer/shortcodes/31-ourclients.php:48
 msgid "OurClients Type"
-msgstr ""
+msgstr "Tipo de Clientes"
 
 #: inc/visualcomposer/shortcodes/31-ourclients.php:55
 msgid "OurClients Title"
-msgstr ""
+msgstr "Título de clientes"
 
 #: inc/visualcomposer/shortcodes/31-ourclients.php:62
 msgid "OurClients Subtitle"
-msgstr ""
+msgstr "Subtítulo de clientes"
 
 #: inc/visualcomposer/shortcodes/31-ourclients.php:66
 msgid "Clients Images"
-msgstr ""
+msgstr "Imágenes de clientes"
 
 #: inc/visualcomposer/shortcodes/31-ourclients.php:69
 msgid "OurClients Images"
-msgstr ""
+msgstr "Imágenes de clientes"
 
 #: inc/visualcomposer/shortcodes/32-taglineslider.php:13
 msgid "Taglines"
-msgstr ""
+msgstr "Líneas de etiquetas"
 
 #: inc/visualcomposer/shortcodes/32-taglineslider.php:16
 msgid "Enter the taglines"
-msgstr ""
+msgstr "Ingresa las líneas de etiquetas"
 
 #: inc/visualcomposer/shortcodes/34-link.php:15
 #: inc/visualcomposer/shortcodes/38-boxlink.php:15
 msgid "Link URL, Example: http://domain.com"
-msgstr ""
+msgstr "URL, Ejemplo: http://midominio.com"
 
 #: inc/visualcomposer/shortcodes/34-link.php:23
 #: inc/visualcomposer/shortcodes/38-boxlink.php:23
 msgid "Link Text (Content)"
-msgstr ""
+msgstr "Reto del enlace (Contenido)"
 
 #: inc/visualcomposer/shortcodes/35-callout.php:17
 msgid "Enter the Callout title"
-msgstr ""
+msgstr "Ingresa el título de llamada"
 
 #: inc/visualcomposer/shortcodes/35-callout.php:21
 msgid "Button Text"
-msgstr ""
+msgstr "Texto del botón"
 
 #: inc/visualcomposer/shortcodes/35-callout.php:24
 msgid "Callout Button text"
-msgstr ""
+msgstr "Texto del botón de llamada"
 
 #: inc/visualcomposer/shortcodes/35-callout.php:28
 msgid "Button Link"
-msgstr ""
+msgstr "Enlace del botón"
 
 #: inc/visualcomposer/shortcodes/35-callout.php:31
 msgid "Button Link URL"
-msgstr ""
+msgstr "URL del botón"
 
 #: inc/visualcomposer/shortcodes/35-callout.php:35
 msgid "Content Text"
-msgstr ""
+msgstr "Texto de contenido"
 
 #: inc/visualcomposer/shortcodes/35-callout.php:38
 msgid "Enter the Callout content text"
-msgstr ""
+msgstr "Ingresa el texto del contenido de la llamada"
 
 #: inc/visualcomposer/shortcodes/37-process-item.php:14
 msgid "Process  Title"
-msgstr ""
+msgstr "Título del proceso"
 
 #: inc/visualcomposer/shortcodes/37-process-item.php:17
 msgid "Process Item 1 Title "
-msgstr ""
+msgstr "Título del elemento del proceso 1"
 
 #: inc/visualcomposer/shortcodes/37-process-item.php:23
 msgid "Process  Text"
-msgstr ""
+msgstr "Texto del proceso"
 
 #: inc/visualcomposer/shortcodes/37-process-item.php:26
 msgid "Process Item 1 Text "
-msgstr ""
+msgstr "Título del elemento del proceso 1"
 
 #: inc/visualcomposer/shortcodes/37-process-item.php:31
 msgid "Process  Icon"
-msgstr ""
+msgstr "ícono del proceso"
 
 #: inc/visualcomposer/shortcodes/37-process-item.php:34
 msgid "Process Item 1 Icon "
-msgstr ""
+msgstr "ícono del elemento del proceso 1"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:26
 msgid "Select specific category"
-msgstr ""
+msgstr "Selecciona una categoría específica"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:32
 msgid "Categorybox"
-msgstr ""
+msgstr "Caja de categoría"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:33
 msgid "Set title"
-msgstr ""
+msgstr "Ajuste del título"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:37
 msgid "Show title"
-msgstr ""
+msgstr "Mostrar el título"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:40
 msgid "Show/Hide title"
-msgstr ""
+msgstr "Mostrar/Ocultar el título"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:47
 msgid "How many posts to dispaly?"
-msgstr ""
+msgstr "Cuantas entradas se va a mostrar?"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:51
 msgid "Show date"
-msgstr ""
+msgstr "Esconder fecha"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:54
 msgid "Show/Hide date"
-msgstr ""
+msgstr "Mostrar/Ocultar LA FECHA"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:59
 msgid "Show category"
-msgstr ""
+msgstr "Mostrar categoría"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:62
 msgid "Show/Hide category"
-msgstr ""
+msgstr "Mostrar/Ocultar la categoría"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:66
 msgid "Show author"
-msgstr ""
+msgstr "Mostrar el autor"
 
 #: inc/visualcomposer/shortcodes/39-categorybox.php:69
 msgid "Show/Hide author"
-msgstr ""
+msgstr "Mostrar/Ocultar el autor"
 
 #: inc/visualcomposer/shortcodes/40-contactform.php:12
 msgid "Form type"
-msgstr ""
+msgstr "Tipo de formulario"
 
 #: inc/visualcomposer/shortcodes/40-contactform.php:19
 msgid "E-mail Address"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: inc/visualcomposer/shortcodes/40-contactform.php:23
 msgid ""
@@ -4564,10 +4708,13 @@ msgid ""
 "information will be sent to Admin email address <span style=\"color:#FF932E;"
 "\">\""
 msgstr ""
+"A que correo electrónico de los contactos se enviará, se dejas la casilla en "
+"blanco será enviada al correo electrónico del administrador <span style="
+"\"color:#FF932E;\">\""
 
 #: inc/visualcomposer/shortcodes/40-contactform.php:27
 msgid "Captcha authentication?"
-msgstr ""
+msgstr "Autenticación Captcha?"
 
 #: inc/visualcomposer/shortcodes/40-contactform.php:31
 msgid ""
@@ -4576,38 +4723,42 @@ msgid ""
 "\"reCaptcha Secret Key\" fields.</span><br>Note: essential tips are "
 "available in Theme Options to fill all fields."
 msgstr ""
+"Si te gusta usar captcha, debes de activarlo y luego <span style=\"color:"
+"#FF932E;\">ir a las opciones del tema > General y relleno \"reCaptcha Site "
+"Key\" y \"reCaptcha Secret Key\" campos</span><br>Nota: Tips esenciales "
+"disponibles en el las opciones para rellenar campos del tema."
 
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:24
 msgid "Enter the link text"
-msgstr ""
+msgstr "Ingresa el texto de enlace"
 
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:38
 msgid "Enter the image url"
-msgstr ""
+msgstr "Ingresa la URL de la imagen"
 
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:49
 msgid "Is Last Column?"
-msgstr ""
+msgstr "Es la última columna?"
 
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:52
 msgid "Is this second promobox?"
-msgstr ""
+msgstr "Es la segunda promobox?"
 
 #: inc/visualcomposer/shortcodes/41-doublepromo.php:59
 msgid "Enter the Doublepromo content text"
-msgstr ""
+msgstr "Ingresa el texto de contenido de Doublepromo"
 
 #: inc/visualcomposer/shortcodes/42-faq.php:38
 msgid "Select FAQ"
-msgstr ""
+msgstr "Selecciona FAQ"
 
 #: inc/visualcomposer/shortcodes/42-faq.php:41
 msgid "Select FAQ to display"
-msgstr ""
+msgstr "Selecciona FAQ a mostrar"
 
 #: inc/visualcomposer/shortcodes/43-highlight.php:12
 msgid "Highlight Type"
-msgstr ""
+msgstr "Tipo de resalte"
 
 #: inc/visualcomposer/shortcodes/43-highlight.php:21
 msgid "Specify the Highlight type"
